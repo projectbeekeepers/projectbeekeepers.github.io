@@ -1,29 +1,29 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="1912" height="958" viewBox="0 0 1912 958">
-<rect x="0" y="0" width="1912" height="958" fill="#ffffff">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="1000" height="500" viewBox="0 0 1000 500">
+<rect x="0" y="0" width="1000" height="500" fill="#ffffff">
 </rect>
 <g>
-<rect x="0" y="0" rx="5" ry="5" width="1912.0" height="958.0" fill="#ffffff" opacity="0">
+<rect x="0" y="0" rx="5" ry="5" width="1000.0" height="500.0" fill="#ffffff" opacity="0">
 </rect>
-<rect x="0" y="0" rx="5" ry="5" width="1912.0" height="958.0" fill="#ffffff" opacity="0">
+<rect x="0" y="0" rx="5" ry="5" width="1000.0" height="500.0" fill="#ffffff" opacity="0">
 </rect>
-<rect x="0" y="0" rx="5" ry="5" width="1912.0" height="958.0" fill="#ffffff" opacity="0">
+<rect x="0" y="0" rx="5" ry="5" width="1000.0" height="500.0" fill="#ffffff" opacity="0">
 </rect>
-<rect x="0" y="0" rx="5" ry="5" width="1912.0" height="958.0" fill="#ffffff" opacity="0">
+<rect x="0" y="0" rx="5" ry="5" width="1000.0" height="500.0" fill="#ffffff" opacity="0">
 </rect>
 <g transform=" translate(16.0 -16.0)">
-<rect x="0" y="67.0" width="19.0" height="811.0" fill="#ebedef">
+<rect x="0" y="67.0" width="19.0" height="353.0" fill="#ebedef">
 </rect>
 <polygon points="0,67.0  0,36.0  62.0,36.0  62.0,50.0  19.0,50.0  19.0,67.0 " fill="#ebedef">
 </polygon>
 <defs>
 <clipPath id="ClipPath0">
-<rect x="0" y="67" width="19" height="811">
+<rect x="0" y="67" width="19" height="353">
 </rect>
 </clipPath>
 </defs>
 <g clip-path="url(#ClipPath0)">
-<g transform="rotate(-90.0, 9.5, 270.0)">
-<g fill="#626f80" stroke="#626f80" transform="translate(0.5 274.3) scale(0.012 -0.012)">
+<g transform="rotate(-90.0, 9.5, 155.5)">
+<g fill="#626f80" stroke="#626f80" transform="translate(0.5 159.8) scale(0.012 -0.012)">
 <defs>
 <path id="g100/TT0" d="M298.0 -12.0Q 227.0,-12.0  171.5,20.5 T 86.0,109.0 T 56.0,234.0 Q 56.0,303.0  86.0,359.0 T 171.5,447.5 T 298.0,480.0 Q 350.0,480.0  398.0,455.5 T 475.0,387.0  L477.0 387.0 L477.0 756.0 L545.0 756.0 L545.0 0 L477.0 0 L477.0 79.0 L475.0 79.0Q 446.0,36.0  398.0,12.0 T 298.0,-12.0 Z M305.0 46.0Q 357.0,46.0  398.0,70.5 T 462.0,138.0 T 485.0,234.0 Q 485.0,287.0  462.0,330.0 T 398.0,398.0 T 305.0,423.0 Q 250.0,423.0  210.0,398.0 T 149.0,330.0 T 128.0,234.0 Q 128.0,181.0  149.0,138.5 T 210.0,71.0 T 250.0,46.0 Z">
 </path>
@@ -40,11 +40,11 @@
 </defs>
 <use x="1171.0" y="0" xlink:href="#g121/TT0"/>
 </g>
-<text id="Text_15" x="9.5" y="274.3" font-size="9.0pt" font-family="Avenir Next for SAS" fill="#626f80" text-anchor="middle" opacity="0">
+<text id="Text_15" x="9.5" y="159.8" font-size="9.0pt" font-family="Avenir Next for SAS" fill="#626f80" text-anchor="middle" opacity="0">
 day</text>
 </g>
-<g transform="rotate(-90.0, 9.5, 675.5)">
-<g fill="#626f80" stroke="#626f80" transform="translate(-4.5 679.8) scale(0.012 -0.012)">
+<g transform="rotate(-90.0, 9.5, 332.0)">
+<g fill="#626f80" stroke="#626f80" transform="translate(-4.5 336.3) scale(0.012 -0.012)">
 <defs>
 <path id="g110/TT0" d="M155.0 388.0 L157.0 388.0Q 176.0,428.0  221.5,454.0 T 317.0,480.0 Q 404.0,480.0  449.5,428.0 T 495.0,287.0  L495.0 0 L427.0 0 L427.0 259.0Q 427.0,338.0  398.5,380.5 T 300.0,423.0 Q 262.0,423.0  230.0,402.5 T 178.0,341.0 T 158.0,240.0  L158.0 0 L90.0 0 L90.0 365.0Q 90.0,425.0  86.0,468.0  L151.0 468.0Q 155.0,418.0  155.0,388.0 Z">
 </path>
@@ -71,7 +71,7 @@ day</text>
 </defs>
 <use x="2046.0" y="0" xlink:href="#g116/TT0"/>
 </g>
-<text id="Text_16" x="9.5" y="679.8" font-size="9.0pt" font-family="Avenir Next for SAS" fill="#626f80" text-anchor="middle" opacity="0">
+<text id="Text_16" x="9.5" y="336.3" font-size="9.0pt" font-family="Avenir Next for SAS" fill="#626f80" text-anchor="middle" opacity="0">
 night</text>
 </g>
 </g>
@@ -94,113 +94,273 @@ night</text>
 day_night</text>
 <defs>
 <clipPath id="ClipPath1">
-<rect x="44" y="64" width="1839" height="814">
+<rect x="44" y="64" width="927" height="356">
 </rect>
 </clipPath>
 </defs>
 <g clip-path="url(#ClipPath1)">
 <defs>
 <clipPath id="ClipPath2">
-<rect x="44" y="66" width="1837" height="407">
+<rect x="44" y="66" width="925" height="178">
 </rect>
 </clipPath>
 </defs>
 <g clip-path="url(#ClipPath2)">
-<rect id="Rect_20" x="181.7" y="373.04" width="1560.6" height="99.96" fill="#33a3ff" stroke="#277fc6">
+<rect id="Rect_20" x="57.86" y="202.68" width="157.08" height="41.32" fill="#33a3ff" stroke="#277fc6">
 </rect>
-<rect id="Rect_21" x="181.7" y="315.4" width="1560.6" height="57.64" fill="#ffcc32" stroke="#c69f26">
+<rect id="Rect_21" x="57.86" y="179.07" width="157.08" height="23.62" fill="#ffcc32" stroke="#c69f26">
 </rect>
-<rect id="Rect_22" x="181.7" y="291.43" width="1560.6" height="23.97" fill="#9471ff" stroke="#7358c6">
+<rect id="Rect_22" x="57.86" y="169.14" width="157.08" height="9.92" fill="#9471ff" stroke="#7358c6">
 </rect>
-<rect id="Rect_23" x="181.7" y="259.04" width="1560.6" height="32.39" fill="#ff8224" stroke="#c6651c">
+<rect id="Rect_23" x="57.86" y="156.62" width="157.08" height="12.52" fill="#ff8224" stroke="#c6651c">
 </rect>
-<rect id="Rect_24" x="181.7" y="228.78" width="1560.6" height="30.26" fill="#2ad1d1" stroke="#1e9898">
+<rect id="Rect_24" x="57.86" y="144.52" width="157.08" height="12.1" fill="#2ad1d1" stroke="#1e9898">
 </rect>
-<rect id="Rect_25" x="181.7" y="208.08" width="1560.6" height="20.71" fill="#dd5757" stroke="#a44040">
+<rect id="Rect_25" x="57.86" y="136.94" width="157.08" height="7.58" fill="#dd5757" stroke="#a44040">
 </rect>
-<rect id="Rect_26" x="181.7" y="179.71" width="1560.6" height="28.37" fill="#15b57b" stroke="#0e7c54">
+<rect id="Rect_26" x="57.86" y="125.49" width="157.08" height="11.45" fill="#15b57b" stroke="#0e7c54">
 </rect>
-<rect id="Rect_27" x="181.7" y="151.8" width="1560.6" height="27.91" fill="#ff6fbd" stroke="#c65693">
+<rect id="Rect_27" x="57.86" y="114.95" width="157.08" height="10.54" fill="#ff6fbd" stroke="#c65693">
 </rect>
-<rect id="Rect_28" x="181.7" y="133.82" width="1560.6" height="17.98" fill="#72e2ff" stroke="#58b0c6">
+<rect id="Rect_28" x="57.86" y="107.5" width="157.08" height="7.45" fill="#72e2ff" stroke="#58b0c6">
 </rect>
-<rect id="Rect_29" x="181.7" y="108.19" width="1560.6" height="25.64" fill="#ffff71" stroke="#c6c658">
+<rect id="Rect_29" x="57.86" y="97.12" width="157.08" height="10.38" fill="#ffff71" stroke="#c6c658">
 </rect>
-<path d="M44.0 473.0L1881.0 473.0Z" stroke="#2a3037" fill="none">
+<rect id="Rect_30" x="242.66" y="206.43" width="157.08" height="37.57" fill="#33a3ff" stroke="#277fc6">
+</rect>
+<rect id="Rect_31" x="242.66" y="182.65" width="157.08" height="23.78" fill="#ffcc32" stroke="#c69f26">
+</rect>
+<rect id="Rect_32" x="242.66" y="173.28" width="157.08" height="9.37" fill="#9471ff" stroke="#7358c6">
+</rect>
+<rect id="Rect_33" x="242.66" y="161.6" width="157.08" height="11.68" fill="#ff8224" stroke="#c6651c">
+</rect>
+<rect id="Rect_34" x="242.66" y="150.73" width="157.08" height="10.87" fill="#2ad1d1" stroke="#1e9898">
+</rect>
+<rect id="Rect_35" x="242.66" y="143.22" width="157.08" height="7.51" fill="#dd5757" stroke="#a44040">
+</rect>
+<rect id="Rect_36" x="242.66" y="131.83" width="157.08" height="11.39" fill="#15b57b" stroke="#0e7c54">
+</rect>
+<rect id="Rect_37" x="242.66" y="121.06" width="157.08" height="10.77" fill="#ff6fbd" stroke="#c65693">
+</rect>
+<rect id="Rect_38" x="242.66" y="114.36" width="157.08" height="6.7" fill="#72e2ff" stroke="#58b0c6">
+</rect>
+<rect id="Rect_39" x="242.66" y="103.53" width="157.08" height="10.83" fill="#ffff71" stroke="#c6c658">
+</rect>
+<rect id="Rect_40" x="427.46" y="207.4" width="157.08" height="36.6" fill="#33a3ff" stroke="#277fc6">
+</rect>
+<rect id="Rect_41" x="427.46" y="183.62" width="157.08" height="23.78" fill="#ffcc32" stroke="#c69f26">
+</rect>
+<rect id="Rect_42" x="427.46" y="173.21" width="157.08" height="10.41" fill="#9471ff" stroke="#7358c6">
+</rect>
+<rect id="Rect_43" x="427.46" y="160.72" width="157.08" height="12.49" fill="#ff8224" stroke="#c6651c">
+</rect>
+<rect id="Rect_44" x="427.46" y="149.53" width="157.08" height="11.19" fill="#2ad1d1" stroke="#1e9898">
+</rect>
+<rect id="Rect_45" x="427.46" y="142.37" width="157.08" height="7.16" fill="#dd5757" stroke="#a44040">
+</rect>
+<rect id="Rect_46" x="427.46" y="131.67" width="157.08" height="10.7" fill="#15b57b" stroke="#0e7c54">
+</rect>
+<rect id="Rect_47" x="427.46" y="121.88" width="157.08" height="9.79" fill="#ff6fbd" stroke="#c65693">
+</rect>
+<rect id="Rect_48" x="427.46" y="114.95" width="157.08" height="6.93" fill="#72e2ff" stroke="#58b0c6">
+</rect>
+<rect id="Rect_49" x="427.46" y="103.4" width="157.08" height="11.55" fill="#ffff71" stroke="#c6c658">
+</rect>
+<rect id="Rect_50" x="612.26" y="204.38" width="157.08" height="39.62" fill="#33a3ff" stroke="#277fc6">
+</rect>
+<rect id="Rect_51" x="612.26" y="180.21" width="157.08" height="24.17" fill="#ffcc32" stroke="#c69f26">
+</rect>
+<rect id="Rect_52" x="612.26" y="169.73" width="157.08" height="10.48" fill="#9471ff" stroke="#7358c6">
+</rect>
+<rect id="Rect_53" x="612.26" y="158.05" width="157.08" height="11.68" fill="#ff8224" stroke="#c6651c">
+</rect>
+<rect id="Rect_54" x="612.26" y="144.94" width="157.08" height="13.11" fill="#2ad1d1" stroke="#1e9898">
+</rect>
+<rect id="Rect_55" x="612.26" y="135.93" width="157.08" height="9.01" fill="#dd5757" stroke="#a44040">
+</rect>
+<rect id="Rect_56" x="612.26" y="125.39" width="157.08" height="10.54" fill="#15b57b" stroke="#0e7c54">
+</rect>
+<rect id="Rect_57" x="612.26" y="115.01" width="157.08" height="10.38" fill="#ff6fbd" stroke="#c65693">
+</rect>
+<rect id="Rect_58" x="612.26" y="107.56" width="157.08" height="7.45" fill="#72e2ff" stroke="#58b0c6">
+</rect>
+<rect id="Rect_59" x="612.26" y="96.31" width="157.08" height="11.26" fill="#ffff71" stroke="#c6c658">
+</rect>
+<rect id="Rect_60" x="797.06" y="201.12" width="157.08" height="42.88" fill="#33a3ff" stroke="#277fc6">
+</rect>
+<rect id="Rect_61" x="797.06" y="176.4" width="157.08" height="24.72" fill="#ffcc32" stroke="#c69f26">
+</rect>
+<rect id="Rect_62" x="797.06" y="166.12" width="157.08" height="10.28" fill="#9471ff" stroke="#7358c6">
+</rect>
+<rect id="Rect_63" x="797.06" y="152.23" width="157.08" height="13.89" fill="#ff8224" stroke="#c6651c">
+</rect>
+<rect id="Rect_64" x="797.06" y="139.25" width="157.08" height="12.98" fill="#2ad1d1" stroke="#1e9898">
+</rect>
+<rect id="Rect_65" x="797.06" y="130.37" width="157.08" height="8.88" fill="#dd5757" stroke="#a44040">
+</rect>
+<rect id="Rect_66" x="797.06" y="118.2" width="157.08" height="12.17" fill="#15b57b" stroke="#0e7c54">
+</rect>
+<rect id="Rect_67" x="797.06" y="106.23" width="157.08" height="11.97" fill="#ff6fbd" stroke="#c65693">
+</rect>
+<rect id="Rect_68" x="797.06" y="98.52" width="157.08" height="7.71" fill="#72e2ff" stroke="#58b0c6">
+</rect>
+<rect id="Rect_69" x="797.06" y="87.52" width="157.08" height="11.0" fill="#ffff71" stroke="#c6c658">
+</rect>
+<path d="M44.0 244.0L969.0 244.0Z" stroke="#2a3037" fill="none">
 </path>
 </g>
-<path d="M44.0 473.0L1881.0 473.0" stroke="#2a3037" stroke-dasharray="1,2" fill="none" opacity="0.4">
+<path d="M44.0 244.0L969.0 244.0" stroke="#2a3037" stroke-dasharray="1,2" fill="none" opacity="0.4">
 </path>
-<path d="M44.0 397.16L1881.0 397.16" stroke="#2a3037" stroke-dasharray="1,2" fill="none" opacity="0.4">
+<path d="M44.0 211.47L969.0 211.47" stroke="#2a3037" stroke-dasharray="1,2" fill="none" opacity="0.4">
 </path>
-<path d="M44.0 321.31L1881.0 321.31" stroke="#2a3037" stroke-dasharray="1,2" fill="none" opacity="0.4">
+<path d="M44.0 178.94L969.0 178.94" stroke="#2a3037" stroke-dasharray="1,2" fill="none" opacity="0.4">
 </path>
-<path d="M44.0 245.47L1881.0 245.47" stroke="#2a3037" stroke-dasharray="1,2" fill="none" opacity="0.4">
+<path d="M44.0 146.4L969.0 146.4" stroke="#2a3037" stroke-dasharray="1,2" fill="none" opacity="0.4">
 </path>
-<path d="M44.0 169.62L1881.0 169.62" stroke="#2a3037" stroke-dasharray="1,2" fill="none" opacity="0.4">
+<path d="M44.0 113.87L969.0 113.87" stroke="#2a3037" stroke-dasharray="1,2" fill="none" opacity="0.4">
 </path>
-<path d="M44.0 93.78L1881.0 93.78" stroke="#2a3037" stroke-dasharray="1,2" fill="none" opacity="0.4">
+<path d="M44.0 81.34L969.0 81.34" stroke="#2a3037" stroke-dasharray="1,2" fill="none" opacity="0.4">
 </path>
 <defs>
 <clipPath id="ClipPath3">
-<rect x="44" y="472" width="1837" height="406">
+<rect x="44" y="243" width="925" height="177">
 </rect>
 </clipPath>
 </defs>
 <g clip-path="url(#ClipPath3)">
-<rect id="Rect_33" x="181.7" y="776.46" width="1560.6" height="101.54" fill="#33a3ff" stroke="#277fc6">
+<rect id="Rect_73" x="57.86" y="381.49" width="157.08" height="38.51" fill="#33a3ff" stroke="#277fc6">
 </rect>
-<rect id="Rect_34" x="181.7" y="714.26" width="1560.6" height="62.2" fill="#ffcc32" stroke="#c69f26">
+<rect id="Rect_74" x="57.86" y="356.4" width="157.08" height="25.09" fill="#ffcc32" stroke="#c69f26">
 </rect>
-<rect id="Rect_35" x="181.7" y="686.59" width="1560.6" height="27.67" fill="#9471ff" stroke="#7358c6">
+<rect id="Rect_75" x="57.86" y="345.08" width="157.08" height="11.32" fill="#9471ff" stroke="#7358c6">
 </rect>
-<rect id="Rect_36" x="181.7" y="650.93" width="1560.6" height="35.67" fill="#ff8224" stroke="#c6651c">
+<rect id="Rect_76" x="57.86" y="330.55" width="157.08" height="14.53" fill="#ff8224" stroke="#c6651c">
 </rect>
-<rect id="Rect_37" x="181.7" y="613.86" width="1560.6" height="37.07" fill="#2ad1d1" stroke="#1e9898">
+<rect id="Rect_77" x="57.86" y="317.1" width="157.08" height="13.45" fill="#2ad1d1" stroke="#1e9898">
 </rect>
-<rect id="Rect_38" x="181.7" y="593.16" width="1560.6" height="20.7" fill="#dd5757" stroke="#a44040">
+<rect id="Rect_78" x="57.86" y="307.96" width="157.08" height="9.15" fill="#dd5757" stroke="#a44040">
 </rect>
-<rect id="Rect_39" x="181.7" y="561.76" width="1560.6" height="31.4" fill="#15b57b" stroke="#0e7c54">
+<rect id="Rect_79" x="57.86" y="294.67" width="157.08" height="13.28" fill="#15b57b" stroke="#0e7c54">
 </rect>
-<rect id="Rect_40" x="181.7" y="530.53" width="1560.6" height="31.23" fill="#ff6fbd" stroke="#c65693">
+<rect id="Rect_80" x="57.86" y="281.18" width="157.08" height="13.49" fill="#ff6fbd" stroke="#c65693">
 </rect>
-<rect id="Rect_41" x="181.7" y="508.59" width="1560.6" height="21.94" fill="#72e2ff" stroke="#58b0c6">
+<rect id="Rect_81" x="57.86" y="272.47" width="157.08" height="8.71" fill="#72e2ff" stroke="#58b0c6">
 </rect>
-<rect id="Rect_42" x="181.7" y="478.0" width="1560.6" height="30.59" fill="#ffff71" stroke="#c6c658">
+<rect id="Rect_82" x="57.86" y="258.8" width="157.08" height="13.68" fill="#ffff71" stroke="#c6c658">
 </rect>
-<path d="M44.0 878.0L1881.0 878.0Z" stroke="#2a3037" fill="none">
+<rect id="Rect_83" x="242.66" y="381.91" width="157.08" height="38.09" fill="#33a3ff" stroke="#277fc6">
+</rect>
+<rect id="Rect_84" x="242.66" y="357.12" width="157.08" height="24.79" fill="#ffcc32" stroke="#c69f26">
+</rect>
+<rect id="Rect_85" x="242.66" y="346.51" width="157.08" height="10.6" fill="#9471ff" stroke="#7358c6">
+</rect>
+<rect id="Rect_86" x="242.66" y="332.77" width="157.08" height="13.75" fill="#ff8224" stroke="#c6651c">
+</rect>
+<rect id="Rect_87" x="242.66" y="319.67" width="157.08" height="13.1" fill="#2ad1d1" stroke="#1e9898">
+</rect>
+<rect id="Rect_88" x="242.66" y="311.4" width="157.08" height="8.27" fill="#dd5757" stroke="#a44040">
+</rect>
+<rect id="Rect_89" x="242.66" y="298.65" width="157.08" height="12.75" fill="#15b57b" stroke="#0e7c54">
+</rect>
+<rect id="Rect_90" x="242.66" y="285.94" width="157.08" height="12.71" fill="#ff6fbd" stroke="#c65693">
+</rect>
+<rect id="Rect_91" x="242.66" y="277.21" width="157.08" height="8.73" fill="#72e2ff" stroke="#58b0c6">
+</rect>
+<rect id="Rect_92" x="242.66" y="264.99" width="157.08" height="12.22" fill="#ffff71" stroke="#c6c658">
+</rect>
+<rect id="Rect_93" x="427.46" y="382.92" width="157.08" height="37.08" fill="#33a3ff" stroke="#277fc6">
+</rect>
+<rect id="Rect_94" x="427.46" y="357.23" width="157.08" height="25.69" fill="#ffcc32" stroke="#c69f26">
+</rect>
+<rect id="Rect_95" x="427.46" y="346.77" width="157.08" height="10.47" fill="#9471ff" stroke="#7358c6">
+</rect>
+<rect id="Rect_96" x="427.46" y="331.43" width="157.08" height="15.34" fill="#ff8224" stroke="#c6651c">
+</rect>
+<rect id="Rect_97" x="427.46" y="317.36" width="157.08" height="14.07" fill="#2ad1d1" stroke="#1e9898">
+</rect>
+<rect id="Rect_98" x="427.46" y="308.58" width="157.08" height="8.78" fill="#dd5757" stroke="#a44040">
+</rect>
+<rect id="Rect_99" x="427.46" y="295.97" width="157.08" height="12.61" fill="#15b57b" stroke="#0e7c54">
+</rect>
+<rect id="Rect_100" x="427.46" y="283.72" width="157.08" height="12.24" fill="#ff6fbd" stroke="#c65693">
+</rect>
+<rect id="Rect_101" x="427.46" y="275.8" width="157.08" height="7.92" fill="#72e2ff" stroke="#58b0c6">
+</rect>
+<rect id="Rect_102" x="427.46" y="263.9" width="157.08" height="11.9" fill="#ffff71" stroke="#c6c658">
+</rect>
+<rect id="Rect_103" x="612.26" y="380.29" width="157.08" height="39.71" fill="#33a3ff" stroke="#277fc6">
+</rect>
+<rect id="Rect_104" x="612.26" y="354.64" width="157.08" height="25.64" fill="#ffcc32" stroke="#c69f26">
+</rect>
+<rect id="Rect_105" x="612.26" y="343.23" width="157.08" height="11.41" fill="#9471ff" stroke="#7358c6">
+</rect>
+<rect id="Rect_106" x="612.26" y="328.45" width="157.08" height="14.79" fill="#ff8224" stroke="#c6651c">
+</rect>
+<rect id="Rect_107" x="612.26" y="313.94" width="157.08" height="14.51" fill="#2ad1d1" stroke="#1e9898">
+</rect>
+<rect id="Rect_108" x="612.26" y="303.96" width="157.08" height="9.98" fill="#dd5757" stroke="#a44040">
+</rect>
+<rect id="Rect_109" x="612.26" y="290.17" width="157.08" height="13.79" fill="#15b57b" stroke="#0e7c54">
+</rect>
+<rect id="Rect_110" x="612.26" y="276.63" width="157.08" height="13.54" fill="#ff6fbd" stroke="#c65693">
+</rect>
+<rect id="Rect_111" x="612.26" y="267.16" width="157.08" height="9.47" fill="#72e2ff" stroke="#58b0c6">
+</rect>
+<rect id="Rect_112" x="612.26" y="254.71" width="157.08" height="12.45" fill="#ffff71" stroke="#c6c658">
+</rect>
+<rect id="Rect_113" x="797.06" y="376.59" width="157.08" height="43.41" fill="#33a3ff" stroke="#277fc6">
+</rect>
+<rect id="Rect_114" x="797.06" y="350.0" width="157.08" height="26.59" fill="#ffcc32" stroke="#c69f26">
+</rect>
+<rect id="Rect_115" x="797.06" y="338.17" width="157.08" height="11.83" fill="#9471ff" stroke="#7358c6">
+</rect>
+<rect id="Rect_116" x="797.06" y="322.93" width="157.08" height="15.25" fill="#ff8224" stroke="#c6651c">
+</rect>
+<rect id="Rect_117" x="797.06" y="307.08" width="157.08" height="15.85" fill="#2ad1d1" stroke="#1e9898">
+</rect>
+<rect id="Rect_118" x="797.06" y="298.23" width="157.08" height="8.85" fill="#dd5757" stroke="#a44040">
+</rect>
+<rect id="Rect_119" x="797.06" y="284.81" width="157.08" height="13.42" fill="#15b57b" stroke="#0e7c54">
+</rect>
+<rect id="Rect_120" x="797.06" y="271.46" width="157.08" height="13.35" fill="#ff6fbd" stroke="#c65693">
+</rect>
+<rect id="Rect_121" x="797.06" y="262.08" width="157.08" height="9.38" fill="#72e2ff" stroke="#58b0c6">
+</rect>
+<rect id="Rect_122" x="797.06" y="249.0" width="157.08" height="13.08" fill="#ffff71" stroke="#c6c658">
+</rect>
+<path d="M44.0 420.0L969.0 420.0Z" stroke="#2a3037" fill="none">
 </path>
 </g>
-<path d="M44.0 878.0L1881.0 878.0" stroke="#2a3037" stroke-dasharray="1,2" fill="none" opacity="0.4">
+<path d="M44.0 420.0L969.0 420.0" stroke="#2a3037" stroke-dasharray="1,2" fill="none" opacity="0.4">
 </path>
-<path d="M44.0 802.34L1881.0 802.34" stroke="#2a3037" stroke-dasharray="1,2" fill="none" opacity="0.4">
+<path d="M44.0 387.66L969.0 387.66" stroke="#2a3037" stroke-dasharray="1,2" fill="none" opacity="0.4">
 </path>
-<path d="M44.0 726.69L1881.0 726.69" stroke="#2a3037" stroke-dasharray="1,2" fill="none" opacity="0.4">
+<path d="M44.0 355.31L969.0 355.31" stroke="#2a3037" stroke-dasharray="1,2" fill="none" opacity="0.4">
 </path>
-<path d="M44.0 651.03L1881.0 651.03" stroke="#2a3037" stroke-dasharray="1,2" fill="none" opacity="0.4">
+<path d="M44.0 322.97L969.0 322.97" stroke="#2a3037" stroke-dasharray="1,2" fill="none" opacity="0.4">
 </path>
-<path d="M44.0 575.38L1881.0 575.38" stroke="#2a3037" stroke-dasharray="1,2" fill="none" opacity="0.4">
+<path d="M44.0 290.63L969.0 290.63" stroke="#2a3037" stroke-dasharray="1,2" fill="none" opacity="0.4">
 </path>
-<path d="M44.0 499.72L1881.0 499.72" stroke="#2a3037" stroke-dasharray="1,2" fill="none" opacity="0.4">
+<path d="M44.0 258.29L969.0 258.29" stroke="#2a3037" stroke-dasharray="1,2" fill="none" opacity="0.4">
 </path>
 </g>
 <defs>
 <clipPath id="ClipPath4">
-<rect x="19" y="67" width="25" height="406">
+<rect x="19" y="67" width="25" height="177">
 </rect>
 </clipPath>
 </defs>
 <g clip-path="url(#ClipPath4)">
-<g fill="#626f80" stroke="#626f80" transform="translate(32.04 470.3) scale(0.012 -0.012)">
+<g fill="#626f80" stroke="#626f80" transform="translate(32.04 241.3) scale(0.012 -0.012)">
 <defs>
 <path id="g48/TT0" d="M522.0 353.0Q 522.0,195.0  467.0,88.5 T 290.0,-18.0 Q 167.0,-18.0  112.5,88.5 T 58.0,353.0 Q 58.0,512.0  112.5,619.0 T 290.0,726.0 Q 412.0,726.0  467.0,618.5 T 522.0,353.0 Z M131.0 353.0Q 131.0,226.0  167.5,135.0 T 290.0,44.0 Q 375.0,44.0  412.0,135.5 T 449.0,353.0 Q 449.0,480.0  412.0,572.5 T 290.0,665.0 Q 204.0,665.0  167.5,573.0 T 131.0,353.0 Z">
 </path>
 </defs>
 <use x="0" y="0" xlink:href="#g48/TT0"/>
 </g>
-<text id="Text_45" x="39.0" y="470.3" font-size="9.0pt" font-family="Avenir Next for SAS" fill="#626f80" text-anchor="end" opacity="0">
+<text id="Text_125" x="39.0" y="241.3" font-size="9.0pt" font-family="Avenir Next for SAS" fill="#626f80" text-anchor="end" opacity="0">
 0</text>
-<g fill="#626f80" stroke="#626f80" transform="translate(25.08 401.46) scale(0.012 -0.012)">
+<g fill="#626f80" stroke="#626f80" transform="translate(25.08 215.77) scale(0.012 -0.012)">
 <defs>
 <path id="g50/TT0" d="M51.0 0 L51.0 75.0 L341.0 368.0Q 380.0,408.0  403.0,447.0 T 426.0,530.0 Q 426.0,590.0  385.5,627.5 T 286.0,665.0 Q 230.0,665.0  191.0,630.0 T 140.0,539.0  L69.0 553.0Q 84.0,629.0  144.0,677.5 T 286.0,726.0 Q 344.0,726.0  392.5,703.5 T 470.0,637.0 T 499.0,531.0 Q 499.0,469.0  470.0,421.5 T 384.0,317.0  L129.0 64.0 L504.0 64.0 L504.0 0 L51.0 0Z">
 </path>
@@ -208,9 +368,9 @@ day_night</text>
 <use x="0" y="0" xlink:href="#g50/TT0"/>
 <use x="580.0" y="0" xlink:href="#g48/TT0"/>
 </g>
-<text id="Text_46" x="39.0" y="401.46" font-size="9.0pt" font-family="Avenir Next for SAS" fill="#626f80" text-anchor="end" opacity="0">
+<text id="Text_126" x="39.0" y="215.77" font-size="9.0pt" font-family="Avenir Next for SAS" fill="#626f80" text-anchor="end" opacity="0">
 20</text>
-<g fill="#626f80" stroke="#626f80" transform="translate(25.08 325.61) scale(0.012 -0.012)">
+<g fill="#626f80" stroke="#626f80" transform="translate(25.08 183.24) scale(0.012 -0.012)">
 <defs>
 <path id="g52/TT0" d="M436.0 234.0 L540.0 234.0 L540.0 171.0 L436.0 171.0 L436.0 0 L366.0 0 L366.0 171.0 L42.0 171.0 L42.0 241.0 L342.0 708.0 L436.0 708.0 L436.0 234.0Z M366.0 627.0 L364.0 627.0 L117.0 234.0 L366.0 234.0 L366.0 627.0Z">
 </path>
@@ -218,9 +378,9 @@ day_night</text>
 <use x="0" y="0" xlink:href="#g52/TT0"/>
 <use x="580.0" y="0" xlink:href="#g48/TT0"/>
 </g>
-<text id="Text_47" x="39.0" y="325.61" font-size="9.0pt" font-family="Avenir Next for SAS" fill="#626f80" text-anchor="end" opacity="0">
+<text id="Text_127" x="39.0" y="183.24" font-size="9.0pt" font-family="Avenir Next for SAS" fill="#626f80" text-anchor="end" opacity="0">
 40</text>
-<g fill="#626f80" stroke="#626f80" transform="translate(25.08 249.77) scale(0.012 -0.012)">
+<g fill="#626f80" stroke="#626f80" transform="translate(25.08 150.71) scale(0.012 -0.012)">
 <defs>
 <path id="g54/TT0" d="M203.0 397.0Q 218.0,409.0  247.0,416.0 T 304.0,423.0 Q 365.0,423.0  414.5,395.5 T 492.0,318.0 T 520.0,205.0 Q 520.0,140.0  490.5,89.5 T 408.5,10.5 T 290.0,-18.0 Q 224.0,-18.0  171.5,10.5 T 89.5,89.5 T 60.0,205.0 Q 60.0,255.0  77.0,301.5 T 124.0,397.0  L317.0 708.0 L400.0 708.0 L201.0 399.0 L203.0 397.0Z M290.0 43.0Q 336.0,43.0  372.0,64.0 T 428.0,122.0 T 448.0,205.0 Q 448.0,275.0  405.0,320.0 T 290.0,365.0 Q 218.0,365.0  175.0,320.0 T 132.0,205.0 Q 132.0,159.0  152.0,122.0 T 208.0,64.0 T 244.0,43.0 Z">
 </path>
@@ -228,9 +388,9 @@ day_night</text>
 <use x="0" y="0" xlink:href="#g54/TT0"/>
 <use x="580.0" y="0" xlink:href="#g48/TT0"/>
 </g>
-<text id="Text_48" x="39.0" y="249.77" font-size="9.0pt" font-family="Avenir Next for SAS" fill="#626f80" text-anchor="end" opacity="0">
+<text id="Text_128" x="39.0" y="150.71" font-size="9.0pt" font-family="Avenir Next for SAS" fill="#626f80" text-anchor="end" opacity="0">
 60</text>
-<g fill="#626f80" stroke="#626f80" transform="translate(25.08 173.92) scale(0.012 -0.012)">
+<g fill="#626f80" stroke="#626f80" transform="translate(25.08 118.18) scale(0.012 -0.012)">
 <defs>
 <path id="g56/TT0" d="M517.0 186.0Q 517.0,126.0  486.0,79.5 T 403.0,7.5 T 290.0,-18.0 Q 229.0,-18.0  177.0,7.5 T 94.0,79.5 T 63.0,186.0 Q 63.0,256.0  100.5,306.5 T 197.0,375.0  L197.0 377.0Q 150.0,393.0  120.0,437.5 T 90.0,537.0 Q 90.0,593.0  117.0,636.0 T 190.0,702.5 T 290.0,726.0 Q 344.0,726.0  390.0,702.5 T 463.0,636.0 T 490.0,537.0 Q 490.0,482.0  460.0,437.5 T 383.0,377.0  L383.0 375.0Q 442.0,358.0  479.5,307.0 T 517.0,186.0 Z M290.0 406.0Q 345.0,406.0  382.5,442.0 T 420.0,533.0 Q 420.0,590.0  383.0,627.5 T 290.0,665.0 Q 234.0,665.0  197.0,627.5 T 160.0,533.0 Q 160.0,478.0  197.5,442.0 T 290.0,406.0 Z M290.0 43.0Q 359.0,43.0  402.0,86.0 T 445.0,194.0 Q 445.0,258.0  402.0,300.0 T 290.0,342.0 Q 221.0,342.0  178.0,300.0 T 135.0,194.0 Q 135.0,129.0  178.0,86.0 T 290.0,43.0 Z">
 </path>
@@ -238,9 +398,9 @@ day_night</text>
 <use x="0" y="0" xlink:href="#g56/TT0"/>
 <use x="580.0" y="0" xlink:href="#g48/TT0"/>
 </g>
-<text id="Text_49" x="39.0" y="173.92" font-size="9.0pt" font-family="Avenir Next for SAS" fill="#626f80" text-anchor="end" opacity="0">
+<text id="Text_129" x="39.0" y="118.18" font-size="9.0pt" font-family="Avenir Next for SAS" fill="#626f80" text-anchor="end" opacity="0">
 80</text>
-<g fill="#626f80" stroke="#626f80" transform="translate(18.12 98.08) scale(0.012 -0.012)">
+<g fill="#626f80" stroke="#626f80" transform="translate(18.12 85.64) scale(0.012 -0.012)">
 <defs>
 <path id="g49/TT0" d="M358.0 0 L286.0 0 L286.0 619.0 L158.0 510.0 L114.0 560.0 L294.0 708.0 L358.0 708.0 L358.0 0Z">
 </path>
@@ -249,51 +409,51 @@ day_night</text>
 <use x="580.0" y="0" xlink:href="#g48/TT0"/>
 <use x="1160.0" y="0" xlink:href="#g48/TT0"/>
 </g>
-<text id="Text_50" x="39.0" y="98.08" font-size="9.0pt" font-family="Avenir Next for SAS" fill="#626f80" text-anchor="end" opacity="0">
+<text id="Text_130" x="39.0" y="85.64" font-size="9.0pt" font-family="Avenir Next for SAS" fill="#626f80" text-anchor="end" opacity="0">
 100</text>
 </g>
 <defs>
 <clipPath id="ClipPath5">
-<rect x="19" y="473" width="25" height="405">
+<rect x="19" y="244" width="25" height="176">
 </rect>
 </clipPath>
 </defs>
 <g clip-path="url(#ClipPath5)">
-<g fill="#626f80" stroke="#626f80" transform="translate(32.04 875.3) scale(0.012 -0.012)">
+<g fill="#626f80" stroke="#626f80" transform="translate(32.04 417.3) scale(0.012 -0.012)">
 <use x="0" y="0" xlink:href="#g48/TT0"/>
 </g>
-<text id="Text_52" x="39.0" y="875.3" font-size="9.0pt" font-family="Avenir Next for SAS" fill="#626f80" text-anchor="end" opacity="0">
+<text id="Text_132" x="39.0" y="417.3" font-size="9.0pt" font-family="Avenir Next for SAS" fill="#626f80" text-anchor="end" opacity="0">
 0</text>
-<g fill="#626f80" stroke="#626f80" transform="translate(25.08 806.65) scale(0.012 -0.012)">
+<g fill="#626f80" stroke="#626f80" transform="translate(25.08 391.96) scale(0.012 -0.012)">
 <use x="0" y="0" xlink:href="#g50/TT0"/>
 <use x="580.0" y="0" xlink:href="#g48/TT0"/>
 </g>
-<text id="Text_53" x="39.0" y="806.65" font-size="9.0pt" font-family="Avenir Next for SAS" fill="#626f80" text-anchor="end" opacity="0">
+<text id="Text_133" x="39.0" y="391.96" font-size="9.0pt" font-family="Avenir Next for SAS" fill="#626f80" text-anchor="end" opacity="0">
 20</text>
-<g fill="#626f80" stroke="#626f80" transform="translate(25.08 730.99) scale(0.012 -0.012)">
+<g fill="#626f80" stroke="#626f80" transform="translate(25.08 359.62) scale(0.012 -0.012)">
 <use x="0" y="0" xlink:href="#g52/TT0"/>
 <use x="580.0" y="0" xlink:href="#g48/TT0"/>
 </g>
-<text id="Text_54" x="39.0" y="730.99" font-size="9.0pt" font-family="Avenir Next for SAS" fill="#626f80" text-anchor="end" opacity="0">
+<text id="Text_134" x="39.0" y="359.62" font-size="9.0pt" font-family="Avenir Next for SAS" fill="#626f80" text-anchor="end" opacity="0">
 40</text>
-<g fill="#626f80" stroke="#626f80" transform="translate(25.08 655.34) scale(0.012 -0.012)">
+<g fill="#626f80" stroke="#626f80" transform="translate(25.08 327.27) scale(0.012 -0.012)">
 <use x="0" y="0" xlink:href="#g54/TT0"/>
 <use x="580.0" y="0" xlink:href="#g48/TT0"/>
 </g>
-<text id="Text_55" x="39.0" y="655.34" font-size="9.0pt" font-family="Avenir Next for SAS" fill="#626f80" text-anchor="end" opacity="0">
+<text id="Text_135" x="39.0" y="327.27" font-size="9.0pt" font-family="Avenir Next for SAS" fill="#626f80" text-anchor="end" opacity="0">
 60</text>
-<g fill="#626f80" stroke="#626f80" transform="translate(25.08 579.68) scale(0.012 -0.012)">
+<g fill="#626f80" stroke="#626f80" transform="translate(25.08 294.93) scale(0.012 -0.012)">
 <use x="0" y="0" xlink:href="#g56/TT0"/>
 <use x="580.0" y="0" xlink:href="#g48/TT0"/>
 </g>
-<text id="Text_56" x="39.0" y="579.68" font-size="9.0pt" font-family="Avenir Next for SAS" fill="#626f80" text-anchor="end" opacity="0">
+<text id="Text_136" x="39.0" y="294.93" font-size="9.0pt" font-family="Avenir Next for SAS" fill="#626f80" text-anchor="end" opacity="0">
 80</text>
-<g fill="#626f80" stroke="#626f80" transform="translate(18.12 504.03) scale(0.012 -0.012)">
+<g fill="#626f80" stroke="#626f80" transform="translate(18.12 262.59) scale(0.012 -0.012)">
 <use x="0" y="0" xlink:href="#g49/TT0"/>
 <use x="580.0" y="0" xlink:href="#g48/TT0"/>
 <use x="1160.0" y="0" xlink:href="#g48/TT0"/>
 </g>
-<text id="Text_57" x="39.0" y="504.03" font-size="9.0pt" font-family="Avenir Next for SAS" fill="#626f80" text-anchor="end" opacity="0">
+<text id="Text_137" x="39.0" y="262.59" font-size="9.0pt" font-family="Avenir Next for SAS" fill="#626f80" text-anchor="end" opacity="0">
 100</text>
 </g>
 <g fill="#2a3037" stroke="#2a3037" transform="translate(19.0 63.59) scale(0.014 -0.014)">
@@ -441,18 +601,18 @@ day_night</text>
 <use x="61290.0" y="0" xlink:href="#g72/TT1"/>
 <use x="62029.0" y="0" xlink:href="#g122/TT1"/>
 </g>
-<text id="Text_58" x="19.0" y="63.59" font-size="10.5pt" font-family="Avenir Next for SAS" font-weight="bold" fill="#2a3037" text-anchor="start" opacity="0">
+<text id="Text_138" x="19.0" y="63.59" font-size="10.5pt" font-family="Avenir Next for SAS" font-weight="bold" fill="#2a3037" text-anchor="start" opacity="0">
 100-150 Hz / 150-200 Hz / 200-250 Hz / 250-300 Hz / 300-350 Hz / 350-400 Hz / 400-450 Hz / 450-500 Hz / 500-550 Hz / 550-600 Hz</text>
-<path d="M44.0 878.0L1880.0 878.0Z" stroke="#2a3037" fill="none">
+<path d="M44.0 420.0L968.0 420.0Z" stroke="#2a3037" fill="none">
 </path>
 <defs>
 <clipPath id="ClipPath6">
-<rect x="44" y="878" width="1836" height="49">
+<rect x="44" y="420" width="924" height="49">
 </rect>
 </clipPath>
 </defs>
 <g clip-path="url(#ClipPath6)">
-<g fill="#626f80" stroke="#626f80" transform="translate(912.0 898.65) scale(0.012 -0.012)">
+<g fill="#626f80" stroke="#626f80" transform="translate(86.4 440.65) scale(0.012 -0.012)">
 <defs>
 <path id="g70/TT0" d="M166.0 0 L94.0 0 L94.0 708.0 L521.0 708.0 L521.0 644.0 L166.0 644.0 L166.0 398.0 L496.0 398.0 L496.0 335.0 L166.0 335.0 L166.0 0Z">
 </path>
@@ -482,7 +642,7 @@ day_night</text>
 <use x="3246.0" y="0" xlink:href="#g114/TT0"/>
 <use x="3606.0" y="0" xlink:href="#g121/TT0"/>
 <use x="4344.0" y="0" xlink:href="#g49/TT0"/>
-<use x="4924.0" y="0" xlink:href="#g56/TT0"/>
+<use x="4924.0" y="0" xlink:href="#g52/TT0"/>
 <defs>
 <path id="g44/TT0" d="M102.0 -140.0 L45.0 -140.0 L112.0 95.0 L183.0 95.0 L102.0 -140.0Z">
 </path>
@@ -497,12 +657,100 @@ day_night</text>
 </defs>
 <use x="7754.0" y="0" xlink:href="#g53/TT0"/>
 </g>
-<text id="Text_60" x="962.0" y="898.65" font-size="9.0pt" font-family="Avenir Next for SAS" fill="#626f80" text-anchor="middle" opacity="0">
+<text id="Text_140" x="136.4" y="440.65" font-size="9.0pt" font-family="Avenir Next for SAS" fill="#626f80" text-anchor="middle" opacity="0">
+February 14, 2025</text>
+<g fill="#626f80" stroke="#626f80" transform="translate(271.2 440.65) scale(0.012 -0.012)">
+<use x="0" y="0" xlink:href="#g70/TT0"/>
+<use x="562.0" y="0" xlink:href="#g101/TT0"/>
+<use x="1134.0" y="0" xlink:href="#g98/TT0"/>
+<use x="1771.0" y="0" xlink:href="#g114/TT0"/>
+<use x="2131.0" y="0" xlink:href="#g117/TT0"/>
+<use x="2712.0" y="0" xlink:href="#g97/TT0"/>
+<use x="3246.0" y="0" xlink:href="#g114/TT0"/>
+<use x="3606.0" y="0" xlink:href="#g121/TT0"/>
+<use x="4344.0" y="0" xlink:href="#g49/TT0"/>
+<use x="4924.0" y="0" xlink:href="#g53/TT0"/>
+<use x="5504.0" y="0" xlink:href="#g44/TT0"/>
+<use x="6014.0" y="0" xlink:href="#g50/TT0"/>
+<use x="6594.0" y="0" xlink:href="#g48/TT0"/>
+<use x="7174.0" y="0" xlink:href="#g50/TT0"/>
+<use x="7754.0" y="0" xlink:href="#g53/TT0"/>
+</g>
+<text id="Text_141" x="321.2" y="440.65" font-size="9.0pt" font-family="Avenir Next for SAS" fill="#626f80" text-anchor="middle" opacity="0">
+February 15, 2025</text>
+<g fill="#626f80" stroke="#626f80" transform="translate(456.0 440.65) scale(0.012 -0.012)">
+<use x="0" y="0" xlink:href="#g70/TT0"/>
+<use x="562.0" y="0" xlink:href="#g101/TT0"/>
+<use x="1134.0" y="0" xlink:href="#g98/TT0"/>
+<use x="1771.0" y="0" xlink:href="#g114/TT0"/>
+<use x="2131.0" y="0" xlink:href="#g117/TT0"/>
+<use x="2712.0" y="0" xlink:href="#g97/TT0"/>
+<use x="3246.0" y="0" xlink:href="#g114/TT0"/>
+<use x="3606.0" y="0" xlink:href="#g121/TT0"/>
+<use x="4344.0" y="0" xlink:href="#g49/TT0"/>
+<use x="4924.0" y="0" xlink:href="#g54/TT0"/>
+<use x="5504.0" y="0" xlink:href="#g44/TT0"/>
+<use x="6014.0" y="0" xlink:href="#g50/TT0"/>
+<use x="6594.0" y="0" xlink:href="#g48/TT0"/>
+<use x="7174.0" y="0" xlink:href="#g50/TT0"/>
+<use x="7754.0" y="0" xlink:href="#g53/TT0"/>
+</g>
+<text id="Text_142" x="506.0" y="440.65" font-size="9.0pt" font-family="Avenir Next for SAS" fill="#626f80" text-anchor="middle" opacity="0">
+February 16, 2025</text>
+<g fill="#626f80" stroke="#626f80" transform="translate(640.8 440.65) scale(0.012 -0.012)">
+<use x="0" y="0" xlink:href="#g70/TT0"/>
+<use x="562.0" y="0" xlink:href="#g101/TT0"/>
+<use x="1134.0" y="0" xlink:href="#g98/TT0"/>
+<use x="1771.0" y="0" xlink:href="#g114/TT0"/>
+<use x="2131.0" y="0" xlink:href="#g117/TT0"/>
+<use x="2712.0" y="0" xlink:href="#g97/TT0"/>
+<use x="3246.0" y="0" xlink:href="#g114/TT0"/>
+<use x="3606.0" y="0" xlink:href="#g121/TT0"/>
+<use x="4344.0" y="0" xlink:href="#g49/TT0"/>
+<defs>
+<path id="g55/TT0" d="M498.0 642.0 L213.0 0 L132.0 0 L425.0 644.0 L78.0 644.0 L78.0 708.0 L498.0 708.0 L498.0 642.0Z">
+</path>
+</defs>
+<use x="4924.0" y="0" xlink:href="#g55/TT0"/>
+<use x="5504.0" y="0" xlink:href="#g44/TT0"/>
+<use x="6014.0" y="0" xlink:href="#g50/TT0"/>
+<use x="6594.0" y="0" xlink:href="#g48/TT0"/>
+<use x="7174.0" y="0" xlink:href="#g50/TT0"/>
+<use x="7754.0" y="0" xlink:href="#g53/TT0"/>
+</g>
+<text id="Text_143" x="690.8" y="440.65" font-size="9.0pt" font-family="Avenir Next for SAS" fill="#626f80" text-anchor="middle" opacity="0">
+February 17, 2025</text>
+<g fill="#626f80" stroke="#626f80" transform="translate(825.6 440.65) scale(0.012 -0.012)">
+<use x="0" y="0" xlink:href="#g70/TT0"/>
+<use x="562.0" y="0" xlink:href="#g101/TT0"/>
+<use x="1134.0" y="0" xlink:href="#g98/TT0"/>
+<use x="1771.0" y="0" xlink:href="#g114/TT0"/>
+<use x="2131.0" y="0" xlink:href="#g117/TT0"/>
+<use x="2712.0" y="0" xlink:href="#g97/TT0"/>
+<use x="3246.0" y="0" xlink:href="#g114/TT0"/>
+<use x="3606.0" y="0" xlink:href="#g121/TT0"/>
+<use x="4344.0" y="0" xlink:href="#g49/TT0"/>
+<use x="4924.0" y="0" xlink:href="#g56/TT0"/>
+<use x="5504.0" y="0" xlink:href="#g44/TT0"/>
+<use x="6014.0" y="0" xlink:href="#g50/TT0"/>
+<use x="6594.0" y="0" xlink:href="#g48/TT0"/>
+<use x="7174.0" y="0" xlink:href="#g50/TT0"/>
+<use x="7754.0" y="0" xlink:href="#g53/TT0"/>
+</g>
+<text id="Text_144" x="875.6" y="440.65" font-size="9.0pt" font-family="Avenir Next for SAS" fill="#626f80" text-anchor="middle" opacity="0">
 February 18, 2025</text>
 </g>
-<path d="M962.0 878.0L962.0 884.0Z" stroke="#2a3037" fill="none">
+<path d="M136.4 420.0L136.4 426.0Z" stroke="#2a3037" fill="none">
 </path>
-<g fill="#2a3037" stroke="#2a3037" transform="translate(947.0 923.44) scale(0.014 -0.014)">
+<path d="M321.2 420.0L321.2 426.0Z" stroke="#2a3037" fill="none">
+</path>
+<path d="M506.0 420.0L506.0 426.0Z" stroke="#2a3037" fill="none">
+</path>
+<path d="M690.8 420.0L690.8 426.0Z" stroke="#2a3037" fill="none">
+</path>
+<path d="M875.6 420.0L875.6 426.0Z" stroke="#2a3037" fill="none">
+</path>
+<g fill="#2a3037" stroke="#2a3037" transform="translate(491.0 465.44) scale(0.014 -0.014)">
 <defs>
 <path id="g68/TT1" d="M329.0 708.0Q 430.0,708.0  518.5,673.0 T 663.5,558.5 T 720.0,354.0 Q 720.0,237.0  663.0,157.0 T 516.5,38.5 T 329.0,0  L78.0 0 L78.0 708.0 L329.0 708.0Z M585.0 354.0Q 585.0,492.0  506.0,546.0 T 309.0,600.0  L204.0 600.0 L204.0 110.0 L309.0 110.0Q 424.0,110.0  504.5,166.5 T 585.0,354.0 Z">
 </path>
@@ -524,20 +772,20 @@ February 18, 2025</text>
 </defs>
 <use x="1654.0" y="0" xlink:href="#g101/TT1"/>
 </g>
-<text id="Text_61" x="962.0" y="923.44" font-size="10.5pt" font-family="Avenir Next for SAS" font-weight="bold" fill="#2a3037" text-anchor="middle" opacity="0">
+<text id="Text_145" x="506.0" y="465.44" font-size="10.5pt" font-family="Avenir Next for SAS" font-weight="bold" fill="#2a3037" text-anchor="middle" opacity="0">
 Date</text>
-<path d="M0 473.0L1880.0 473.0Z" stroke="#2a3037" fill="none">
+<path d="M0 244.0L968.0 244.0Z" stroke="#2a3037" fill="none">
 </path>
-<path d="M44.0 878.0L1880.0 878.0Z" stroke="#2a3037" fill="none">
+<path d="M44.0 420.0L968.0 420.0Z" stroke="#2a3037" fill="none">
 </path>
 <defs>
 <clipPath id="ClipPath7">
-<rect x="0" y="32" width="1880" height="895">
+<rect x="0" y="32" width="968" height="437">
 </rect>
 </clipPath>
 </defs>
 <g clip-path="url(#ClipPath7)">
-<path d="M0 878.0L44.0 878.0Z" stroke="#2a3037" fill="none">
+<path d="M0 420.0L44.0 420.0Z" stroke="#2a3037" fill="none">
 </path>
 </g>
 </g>
@@ -546,7 +794,7 @@ Date</text>
 <g transform=" translate(16.0 -16.0)">
 </g>
 <g transform=" translate(16.0 -16.0)">
-<rect x="520.0" y="931.3" rx="5" ry="5" width="839.2" height="26.7" fill="#ffffff">
+<rect x="64.0" y="473.3" rx="5" ry="5" width="839.2" height="26.7" fill="#ffffff">
 </rect>
 <defs>
 <linearGradient id="gradient0" x1="0%" y1="100%" x2="0%" y2="0%">
@@ -556,9 +804,9 @@ Date</text>
 </stop>
 </linearGradient>
 </defs>
-<rect x="526.0" y="940.15" width="9.0" height="9.0" fill="url(#gradient0)">
+<rect x="70.0" y="482.15" width="9.0" height="9.0" fill="url(#gradient0)">
 </rect>
-<g fill="#626f80" stroke="#626f80" transform="translate(539.0 948.95) scale(0.012 -0.012)">
+<g fill="#626f80" stroke="#626f80" transform="translate(83.0 490.95) scale(0.012 -0.012)">
 <use x="0" y="0" xlink:href="#g49/TT0"/>
 <use x="580.0" y="0" xlink:href="#g48/TT0"/>
 <use x="1160.0" y="0" xlink:href="#g48/TT0"/>
@@ -581,7 +829,7 @@ Date</text>
 </defs>
 <use x="4768.0" y="0" xlink:href="#g122/TT0"/>
 </g>
-<text x="539.0" y="948.95" font-size="9.0pt" font-family="Avenir Next for SAS" fill="#626f80" text-anchor="start" opacity="0">
+<text x="83.0" y="490.95" font-size="9.0pt" font-family="Avenir Next for SAS" fill="#626f80" text-anchor="start" opacity="0">
 100-150 Hz</text>
 <defs>
 <linearGradient id="gradient1" x1="0%" y1="100%" x2="0%" y2="0%">
@@ -591,9 +839,9 @@ Date</text>
 </stop>
 </linearGradient>
 </defs>
-<rect x="609.52" y="940.15" width="9.0" height="9.0" fill="url(#gradient1)">
+<rect x="153.52" y="482.15" width="9.0" height="9.0" fill="url(#gradient1)">
 </rect>
-<g fill="#626f80" stroke="#626f80" transform="translate(622.52 948.95) scale(0.012 -0.012)">
+<g fill="#626f80" stroke="#626f80" transform="translate(166.52 490.95) scale(0.012 -0.012)">
 <use x="0" y="0" xlink:href="#g49/TT0"/>
 <use x="580.0" y="0" xlink:href="#g53/TT0"/>
 <use x="1160.0" y="0" xlink:href="#g48/TT0"/>
@@ -604,7 +852,7 @@ Date</text>
 <use x="4050.0" y="0" xlink:href="#g72/TT0"/>
 <use x="4768.0" y="0" xlink:href="#g122/TT0"/>
 </g>
-<text x="622.52" y="948.95" font-size="9.0pt" font-family="Avenir Next for SAS" fill="#626f80" text-anchor="start" opacity="0">
+<text x="166.52" y="490.95" font-size="9.0pt" font-family="Avenir Next for SAS" fill="#626f80" text-anchor="start" opacity="0">
 150-200 Hz</text>
 <defs>
 <linearGradient id="gradient2" x1="0%" y1="100%" x2="0%" y2="0%">
@@ -614,9 +862,9 @@ Date</text>
 </stop>
 </linearGradient>
 </defs>
-<rect x="693.04" y="940.15" width="9.0" height="9.0" fill="url(#gradient2)">
+<rect x="237.04" y="482.15" width="9.0" height="9.0" fill="url(#gradient2)">
 </rect>
-<g fill="#626f80" stroke="#626f80" transform="translate(706.04 948.95) scale(0.012 -0.012)">
+<g fill="#626f80" stroke="#626f80" transform="translate(250.04 490.95) scale(0.012 -0.012)">
 <use x="0" y="0" xlink:href="#g50/TT0"/>
 <use x="580.0" y="0" xlink:href="#g48/TT0"/>
 <use x="1160.0" y="0" xlink:href="#g48/TT0"/>
@@ -627,7 +875,7 @@ Date</text>
 <use x="4050.0" y="0" xlink:href="#g72/TT0"/>
 <use x="4768.0" y="0" xlink:href="#g122/TT0"/>
 </g>
-<text x="706.04" y="948.95" font-size="9.0pt" font-family="Avenir Next for SAS" fill="#626f80" text-anchor="start" opacity="0">
+<text x="250.04" y="490.95" font-size="9.0pt" font-family="Avenir Next for SAS" fill="#626f80" text-anchor="start" opacity="0">
 200-250 Hz</text>
 <defs>
 <linearGradient id="gradient3" x1="0%" y1="100%" x2="0%" y2="0%">
@@ -637,9 +885,9 @@ Date</text>
 </stop>
 </linearGradient>
 </defs>
-<rect x="776.56" y="940.15" width="9.0" height="9.0" fill="url(#gradient3)">
+<rect x="320.56" y="482.15" width="9.0" height="9.0" fill="url(#gradient3)">
 </rect>
-<g fill="#626f80" stroke="#626f80" transform="translate(789.56 948.95) scale(0.012 -0.012)">
+<g fill="#626f80" stroke="#626f80" transform="translate(333.56 490.95) scale(0.012 -0.012)">
 <use x="0" y="0" xlink:href="#g50/TT0"/>
 <use x="580.0" y="0" xlink:href="#g53/TT0"/>
 <use x="1160.0" y="0" xlink:href="#g48/TT0"/>
@@ -654,7 +902,7 @@ Date</text>
 <use x="4050.0" y="0" xlink:href="#g72/TT0"/>
 <use x="4768.0" y="0" xlink:href="#g122/TT0"/>
 </g>
-<text x="789.56" y="948.95" font-size="9.0pt" font-family="Avenir Next for SAS" fill="#626f80" text-anchor="start" opacity="0">
+<text x="333.56" y="490.95" font-size="9.0pt" font-family="Avenir Next for SAS" fill="#626f80" text-anchor="start" opacity="0">
 250-300 Hz</text>
 <defs>
 <linearGradient id="gradient4" x1="0%" y1="100%" x2="0%" y2="0%">
@@ -664,9 +912,9 @@ Date</text>
 </stop>
 </linearGradient>
 </defs>
-<rect x="860.08" y="940.15" width="9.0" height="9.0" fill="url(#gradient4)">
+<rect x="404.08" y="482.15" width="9.0" height="9.0" fill="url(#gradient4)">
 </rect>
-<g fill="#626f80" stroke="#626f80" transform="translate(873.08 948.95) scale(0.012 -0.012)">
+<g fill="#626f80" stroke="#626f80" transform="translate(417.08 490.95) scale(0.012 -0.012)">
 <use x="0" y="0" xlink:href="#g51/TT0"/>
 <use x="580.0" y="0" xlink:href="#g48/TT0"/>
 <use x="1160.0" y="0" xlink:href="#g48/TT0"/>
@@ -677,7 +925,7 @@ Date</text>
 <use x="4050.0" y="0" xlink:href="#g72/TT0"/>
 <use x="4768.0" y="0" xlink:href="#g122/TT0"/>
 </g>
-<text x="873.08" y="948.95" font-size="9.0pt" font-family="Avenir Next for SAS" fill="#626f80" text-anchor="start" opacity="0">
+<text x="417.08" y="490.95" font-size="9.0pt" font-family="Avenir Next for SAS" fill="#626f80" text-anchor="start" opacity="0">
 300-350 Hz</text>
 <defs>
 <linearGradient id="gradient5" x1="0%" y1="100%" x2="0%" y2="0%">
@@ -687,9 +935,9 @@ Date</text>
 </stop>
 </linearGradient>
 </defs>
-<rect x="943.6" y="940.15" width="9.0" height="9.0" fill="url(#gradient5)">
+<rect x="487.6" y="482.15" width="9.0" height="9.0" fill="url(#gradient5)">
 </rect>
-<g fill="#626f80" stroke="#626f80" transform="translate(956.6 948.95) scale(0.012 -0.012)">
+<g fill="#626f80" stroke="#626f80" transform="translate(500.6 490.95) scale(0.012 -0.012)">
 <use x="0" y="0" xlink:href="#g51/TT0"/>
 <use x="580.0" y="0" xlink:href="#g53/TT0"/>
 <use x="1160.0" y="0" xlink:href="#g48/TT0"/>
@@ -700,7 +948,7 @@ Date</text>
 <use x="4050.0" y="0" xlink:href="#g72/TT0"/>
 <use x="4768.0" y="0" xlink:href="#g122/TT0"/>
 </g>
-<text x="956.6" y="948.95" font-size="9.0pt" font-family="Avenir Next for SAS" fill="#626f80" text-anchor="start" opacity="0">
+<text x="500.6" y="490.95" font-size="9.0pt" font-family="Avenir Next for SAS" fill="#626f80" text-anchor="start" opacity="0">
 350-400 Hz</text>
 <defs>
 <linearGradient id="gradient6" x1="0%" y1="100%" x2="0%" y2="0%">
@@ -710,9 +958,9 @@ Date</text>
 </stop>
 </linearGradient>
 </defs>
-<rect x="1027.12" y="940.15" width="9.0" height="9.0" fill="url(#gradient6)">
+<rect x="571.12" y="482.15" width="9.0" height="9.0" fill="url(#gradient6)">
 </rect>
-<g fill="#626f80" stroke="#626f80" transform="translate(1040.12 948.95) scale(0.012 -0.012)">
+<g fill="#626f80" stroke="#626f80" transform="translate(584.12 490.95) scale(0.012 -0.012)">
 <use x="0" y="0" xlink:href="#g52/TT0"/>
 <use x="580.0" y="0" xlink:href="#g48/TT0"/>
 <use x="1160.0" y="0" xlink:href="#g48/TT0"/>
@@ -723,7 +971,7 @@ Date</text>
 <use x="4050.0" y="0" xlink:href="#g72/TT0"/>
 <use x="4768.0" y="0" xlink:href="#g122/TT0"/>
 </g>
-<text x="1040.12" y="948.95" font-size="9.0pt" font-family="Avenir Next for SAS" fill="#626f80" text-anchor="start" opacity="0">
+<text x="584.12" y="490.95" font-size="9.0pt" font-family="Avenir Next for SAS" fill="#626f80" text-anchor="start" opacity="0">
 400-450 Hz</text>
 <defs>
 <linearGradient id="gradient7" x1="0%" y1="100%" x2="0%" y2="0%">
@@ -733,9 +981,9 @@ Date</text>
 </stop>
 </linearGradient>
 </defs>
-<rect x="1110.64" y="940.15" width="9.0" height="9.0" fill="url(#gradient7)">
+<rect x="654.64" y="482.15" width="9.0" height="9.0" fill="url(#gradient7)">
 </rect>
-<g fill="#626f80" stroke="#626f80" transform="translate(1123.64 948.95) scale(0.012 -0.012)">
+<g fill="#626f80" stroke="#626f80" transform="translate(667.64 490.95) scale(0.012 -0.012)">
 <use x="0" y="0" xlink:href="#g52/TT0"/>
 <use x="580.0" y="0" xlink:href="#g53/TT0"/>
 <use x="1160.0" y="0" xlink:href="#g48/TT0"/>
@@ -746,7 +994,7 @@ Date</text>
 <use x="4050.0" y="0" xlink:href="#g72/TT0"/>
 <use x="4768.0" y="0" xlink:href="#g122/TT0"/>
 </g>
-<text x="1123.64" y="948.95" font-size="9.0pt" font-family="Avenir Next for SAS" fill="#626f80" text-anchor="start" opacity="0">
+<text x="667.64" y="490.95" font-size="9.0pt" font-family="Avenir Next for SAS" fill="#626f80" text-anchor="start" opacity="0">
 450-500 Hz</text>
 <defs>
 <linearGradient id="gradient8" x1="0%" y1="100%" x2="0%" y2="0%">
@@ -756,9 +1004,9 @@ Date</text>
 </stop>
 </linearGradient>
 </defs>
-<rect x="1194.16" y="940.15" width="9.0" height="9.0" fill="url(#gradient8)">
+<rect x="738.16" y="482.15" width="9.0" height="9.0" fill="url(#gradient8)">
 </rect>
-<g fill="#626f80" stroke="#626f80" transform="translate(1207.16 948.95) scale(0.012 -0.012)">
+<g fill="#626f80" stroke="#626f80" transform="translate(751.16 490.95) scale(0.012 -0.012)">
 <use x="0" y="0" xlink:href="#g53/TT0"/>
 <use x="580.0" y="0" xlink:href="#g48/TT0"/>
 <use x="1160.0" y="0" xlink:href="#g48/TT0"/>
@@ -769,7 +1017,7 @@ Date</text>
 <use x="4050.0" y="0" xlink:href="#g72/TT0"/>
 <use x="4768.0" y="0" xlink:href="#g122/TT0"/>
 </g>
-<text x="1207.16" y="948.95" font-size="9.0pt" font-family="Avenir Next for SAS" fill="#626f80" text-anchor="start" opacity="0">
+<text x="751.16" y="490.95" font-size="9.0pt" font-family="Avenir Next for SAS" fill="#626f80" text-anchor="start" opacity="0">
 500-550 Hz</text>
 <defs>
 <linearGradient id="gradient9" x1="0%" y1="100%" x2="0%" y2="0%">
@@ -779,9 +1027,9 @@ Date</text>
 </stop>
 </linearGradient>
 </defs>
-<rect x="1277.68" y="940.15" width="9.0" height="9.0" fill="url(#gradient9)">
+<rect x="821.68" y="482.15" width="9.0" height="9.0" fill="url(#gradient9)">
 </rect>
-<g fill="#626f80" stroke="#626f80" transform="translate(1290.68 948.95) scale(0.012 -0.012)">
+<g fill="#626f80" stroke="#626f80" transform="translate(834.68 490.95) scale(0.012 -0.012)">
 <use x="0" y="0" xlink:href="#g53/TT0"/>
 <use x="580.0" y="0" xlink:href="#g53/TT0"/>
 <use x="1160.0" y="0" xlink:href="#g48/TT0"/>
@@ -792,7 +1040,7 @@ Date</text>
 <use x="4050.0" y="0" xlink:href="#g72/TT0"/>
 <use x="4768.0" y="0" xlink:href="#g122/TT0"/>
 </g>
-<text x="1290.68" y="948.95" font-size="9.0pt" font-family="Avenir Next for SAS" fill="#626f80" text-anchor="start" opacity="0">
+<text x="834.68" y="490.95" font-size="9.0pt" font-family="Avenir Next for SAS" fill="#626f80" text-anchor="start" opacity="0">
 550-600 Hz</text>
 </g>
 </g>
