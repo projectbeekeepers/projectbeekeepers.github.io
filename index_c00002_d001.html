@@ -207,7 +207,7 @@
 			<script src="assets/js/util.js"></script>
 			<script src="assets/js/main.js"></script>
 			<script src="https://unpkg.com/mqtt/dist/mqtt.min.js"></script>
-		    <script>
+		<script>
 		        const broker = "wss://k9931f8c.ala.eu-central-1.emqxsl.com:8084/mqtt";
 		        const clientId = "mqtt_test_client_" + Math.random().toString(16).substr(2, 8);
 		        const options = {
@@ -215,7 +215,7 @@
 		            clean: true,
 		            connectTimeout: 4000,
 		            username: "qr_code_user", // Add your EMQX username
-		            password: "qr_code_password", // Add your EMQX password
+				    password: "qr_code_password", // Add your EMQX password
 		        };
 		
 		        const client = mqtt.connect(broker, options);
@@ -223,21 +223,43 @@
 		        client.on("connect", () => {
 		            document.getElementById("status").textContent = "Connected";
 		            console.log("Connected to MQTT Broker");
-		            client.subscribe("v000/c00002/d001/answer"); // Change to your topic
+		            client.subscribe("v000/c00002/d001/answer", (err) => {
+		                if (err) console.error("Subscribe error:", err);
+		            });
 		        });
 		
 		        client.on("message", (topic, message) => {
-		            const msgList = document.getElementById("messages");
-		            const newItem = document.createElement("li");
-		            newItem.textContent = `Topic: ${topic} - Message: ${message.toString()}`;
-		            msgList.appendChild(newItem);
+		            console.log(`Received message: ${message.toString()} on topic ${topic}`);
+		            try {
+		                const jsonMsg = JSON.parse(message.toString());
+		                displayMessage(`Category: ${jsonMsg.category} - Value: ${jsonMsg.cat_value}`);
+		            } catch (error) {
+		                console.error("JSON Parse Error:", error);
+		                displayMessage(`Raw Message: ${message.toString()}`);
+		            }
 		        });
 		
 		        function publishMessage() {
-		            const msg = document.getElementById("message").value;
-		            client.publish("v000/c00002/d001/question", msg);
+		            const userInput = document.getElementById("message").value;
+		            const jsonPayload = {
+		                category: "question",
+		                cat_value: userInput
+		            };
+		            const jsonString = JSON.stringify(jsonPayload);
+		            console.log("Sending:", jsonString);
+		            client.publish("v000/c00002/d001/user", jsonString, (err) => {
+		                if (err) console.error("Publish error:", err);
+		            });
+		        }
+		
+		        function displayMessage(msg) {
+		            const msgList = document.getElementById("messages");
+		            const newItem = document.createElement("li");
+		            newItem.textContent = msg;
+		            msgList.appendChild(newItem);
 		        }
 		    </script>
+ 
  
 	</body>
 </html>
