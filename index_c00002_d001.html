@@ -223,7 +223,7 @@
 		        client.on("connect", () => {
 		            document.getElementById("status").textContent = "Connected";
 		            console.log("Connected to MQTT Broker");
-		            client.subscribe("{qr_code/answer}"); // Change to your topic
+		            client.subscribe("v000/c00002/d001/answer"); // Change to your topic
 		        });
 		
 		        client.on("message", (topic, message) => {
@@ -235,7 +235,7 @@
 		
 		        function publishMessage() {
 		            const msg = document.getElementById("message").value;
-		            client.publish("{qr_code/question}", msg);
+		            client.publish("v000/c00002/d001/question", msg);
 		        }
 		    </script>
  
