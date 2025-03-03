@@ -228,17 +228,27 @@
 		            });
 		        });
 		
-		        client.on("message", (topic, message) => {
-		            console.log(`Received message: ${message.toString()} on topic ${topic}`);
-		            try {
-		                const jsonMsg = JSON.parse(message.toString());
-		                displayMessage(`Category: ${jsonMsg.category} - Value: ${jsonMsg.cat_value}`);
-		            } catch (error) {
-		                console.error("JSON Parse Error:", error);
-		                displayMessage(`Raw Message: ${message.toString()}`);
-		            }
-		        });
-		
+ 
+				function isJson(str) {
+				            try {
+				                JSON.parse(str);
+				                return true;
+				            } catch (e) {
+				                return false;
+				            }
+				        }
+				
+				        client.on("message", (topic, message) => {
+				            console.log(`Received message: ${message.toString()} on topic ${topic}`);
+				            const msgStr = message.toString();
+				            if (isJson(msgStr)) {
+				                const jsonMsg = JSON.parse(msgStr);
+				                displayMessage(`Category: ${jsonMsg.category} - Value: ${jsonMsg.cat_value}`);
+				            } else {
+				                displayMessage(`Topic: ${topic} - Message: ${msgStr}`);
+				            }
+				        });
+ 
 		        function publishMessage() {
 		            const userInput = document.getElementById("message").value;
 		            const jsonPayload = {
