@@ -1,16 +1,10 @@
 <!DOCTYPE HTML>
-<!--
-	Hielo by TEMPLATED
-	templated.co @templatedco
-	Released for free under the Creative Commons Attribution 3.0 license (templated.co/license)
--->
 <html>
 	<head>
 		<title>Credits: SAS</title>
 		<meta charset="utf-8" />
 		<meta name="viewport" content="width=device-width, initial-scale=1" />
 		<link rel="stylesheet" href="assets/css/main.css" />
-		<script src="<https://unpkg.com/mqtt/dist/mqtt.min.js>"></script>
 	</head>
 	<body>
 
@@ -64,47 +58,6 @@
 				</article>
 			</section>
 
-
-			<h1>MQTT WebSocket Test</h1>
-		    <p><strong>Status:</strong> <span id="status">Connecting...</span></p>
-		    <input type="text" id="message" placeholder="Enter message">
-		    <button onclick="publishMessage()">Send</button>
-		    <h2>Received Messages:</h2>
-		    <ul id="messages"></ul>
-		<script src="https://unpkg.com/mqtt/dist/mqtt.min.js"></script>
-    <script>
-        const broker = "wss://k9931f8c.ala.eu-central-1.emqxsl.com:8084/mqtt";
-        const clientId = "mqtt_test_client_" + Math.random().toString(16).substr(2, 8);
-        const options = {
-            clientId: clientId,
-            clean: true,
-            connectTimeout: 4000,
-            username: "qr_code_user", // Add your EMQX username
-            password: "qr_code_password", // Add your EMQX password
-        };
-        
-        const client = mqtt.connect(broker, options);
-
-        client.on("connect", () => {
-            document.getElementById("status").textContent = "Connected";
-            console.log("Connected to MQTT Broker");
-            client.subscribe("v000/c00002/d001"); // Change to your topic
-        });
-
-        client.on("message", (topic, message) => {
-            const msgList = document.getElementById("messages");
-            const newItem = document.createElement("li");
-            newItem.textContent = `Topic: ${topic} - Message: ${message.toString()}`;
-            msgList.appendChild(newItem);
-        });
-
-        function publishMessage() {
-            const msg = document.getElementById("message").value;
-            client.publish("v000/c00002/d001", msg);
-        }
-    </script>
-
-
 		
 		<!-- Scripts -->
 			<script src="assets/js/jquery.min.js"></script>
@@ -117,36 +70,5 @@
 				// Initialize a mqtt variable globally
 				console.log(mqtt)
 			</script>
-			<script>
-    const clientId = 'mqttjs_' + Math.random().toString(16).substr(2, 8)
-    const host = 'wss://k9931f8c.ala.eu-central-1.emqxsl.com:8084/mqtt'
-    const options = {
-      keepalive: 60,
-      clientId: clientId,
-      protocolId: 'MQTT',
-      protocolVersion: 4,
-	  username: 'qr_code',
-      password: 'qr_code',
-      clean: true,
-      reconnectPeriod: 1000,
-      connectTimeout: 30 * 1000,
-      will: {
-        topic: 'WillMsg',
-        payload: 'Connection Closed abnormally..!',
-        qos: 0,
-        retain: false
-      },
-    }
-    console.log('Connecting mqtt client')
-    const client = mqtt.connect(host, options)
-    client.on('error', (err) => {
-      console.log('Connection error: ', err)
-      client.end()
-    })
-    client.on('reconnect', () => {
-      console.log('Reconnecting...')
-    })
-</script>
-
 	</body>
 </html>
