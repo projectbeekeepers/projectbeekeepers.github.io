@@ -94,273 +94,129 @@ night</text>
 day_night</text>
 <defs>
 <clipPath id="ClipPath1">
-<rect x="44" y="64" width="927" height="356">
+<rect x="37" y="64" width="934" height="356">
 </rect>
 </clipPath>
 </defs>
 <g clip-path="url(#ClipPath1)">
 <defs>
 <clipPath id="ClipPath2">
-<rect x="44" y="66" width="925" height="178">
+<rect x="37" y="66" width="932" height="178">
 </rect>
 </clipPath>
 </defs>
 <g clip-path="url(#ClipPath2)">
-<rect id="Rect_20" x="57.86" y="202.68" width="157.08" height="41.32" fill="#33a3ff" stroke="#277fc6">
+<rect id="Rect_20" x="71.91" y="200.71" width="395.68" height="43.29" fill="#33a3ff" stroke="#277fc6">
 </rect>
-<rect id="Rect_21" x="57.86" y="179.07" width="157.08" height="23.62" fill="#ffcc32" stroke="#c69f26">
+<rect id="Rect_21" x="71.91" y="173.17" width="395.68" height="27.54" fill="#ffcc32" stroke="#c69f26">
 </rect>
-<rect id="Rect_22" x="57.86" y="169.14" width="157.08" height="9.92" fill="#9471ff" stroke="#7358c6">
+<rect id="Rect_22" x="71.91" y="161.08" width="395.68" height="12.09" fill="#9471ff" stroke="#7358c6">
 </rect>
-<rect id="Rect_23" x="57.86" y="156.62" width="157.08" height="12.52" fill="#ff8224" stroke="#c6651c">
+<rect id="Rect_23" x="71.91" y="146.65" width="395.68" height="14.43" fill="#ff8224" stroke="#c6651c">
 </rect>
-<rect id="Rect_24" x="57.86" y="144.52" width="157.08" height="12.1" fill="#2ad1d1" stroke="#1e9898">
+<rect id="Rect_24" x="71.91" y="133.82" width="395.68" height="12.83" fill="#2ad1d1" stroke="#1e9898">
 </rect>
-<rect id="Rect_25" x="57.86" y="136.94" width="157.08" height="7.58" fill="#dd5757" stroke="#a44040">
+<rect id="Rect_25" x="71.91" y="125.75" width="395.68" height="8.07" fill="#dd5757" stroke="#a44040">
 </rect>
-<rect id="Rect_26" x="57.86" y="125.49" width="157.08" height="11.45" fill="#15b57b" stroke="#0e7c54">
+<rect id="Rect_26" x="71.91" y="112.8" width="395.68" height="12.95" fill="#15b57b" stroke="#0e7c54">
 </rect>
-<rect id="Rect_27" x="57.86" y="114.95" width="157.08" height="10.54" fill="#ff6fbd" stroke="#c65693">
+<rect id="Rect_27" x="71.91" y="100.63" width="395.68" height="12.17" fill="#ff6fbd" stroke="#c65693">
 </rect>
-<rect id="Rect_28" x="57.86" y="107.5" width="157.08" height="7.45" fill="#72e2ff" stroke="#58b0c6">
+<rect id="Rect_28" x="71.91" y="93.1" width="395.68" height="7.53" fill="#72e2ff" stroke="#58b0c6">
 </rect>
-<rect id="Rect_29" x="57.86" y="97.12" width="157.08" height="10.38" fill="#ffff71" stroke="#c6c658">
+<rect id="Rect_29" x="71.91" y="81.32" width="395.68" height="11.78" fill="#ffff71" stroke="#c6c658">
 </rect>
-<rect id="Rect_30" x="242.66" y="206.43" width="157.08" height="37.57" fill="#33a3ff" stroke="#277fc6">
-</rect>
-<rect id="Rect_31" x="242.66" y="182.65" width="157.08" height="23.78" fill="#ffcc32" stroke="#c69f26">
-</rect>
-<rect id="Rect_32" x="242.66" y="173.28" width="157.08" height="9.37" fill="#9471ff" stroke="#7358c6">
-</rect>
-<rect id="Rect_33" x="242.66" y="161.6" width="157.08" height="11.68" fill="#ff8224" stroke="#c6651c">
-</rect>
-<rect id="Rect_34" x="242.66" y="150.73" width="157.08" height="10.87" fill="#2ad1d1" stroke="#1e9898">
-</rect>
-<rect id="Rect_35" x="242.66" y="143.22" width="157.08" height="7.51" fill="#dd5757" stroke="#a44040">
-</rect>
-<rect id="Rect_36" x="242.66" y="131.83" width="157.08" height="11.39" fill="#15b57b" stroke="#0e7c54">
-</rect>
-<rect id="Rect_37" x="242.66" y="121.06" width="157.08" height="10.77" fill="#ff6fbd" stroke="#c65693">
-</rect>
-<rect id="Rect_38" x="242.66" y="114.36" width="157.08" height="6.7" fill="#72e2ff" stroke="#58b0c6">
-</rect>
-<rect id="Rect_39" x="242.66" y="103.53" width="157.08" height="10.83" fill="#ffff71" stroke="#c6c658">
-</rect>
-<rect id="Rect_40" x="427.46" y="207.4" width="157.08" height="36.6" fill="#33a3ff" stroke="#277fc6">
-</rect>
-<rect id="Rect_41" x="427.46" y="183.62" width="157.08" height="23.78" fill="#ffcc32" stroke="#c69f26">
-</rect>
-<rect id="Rect_42" x="427.46" y="173.21" width="157.08" height="10.41" fill="#9471ff" stroke="#7358c6">
-</rect>
-<rect id="Rect_43" x="427.46" y="160.72" width="157.08" height="12.49" fill="#ff8224" stroke="#c6651c">
-</rect>
-<rect id="Rect_44" x="427.46" y="149.53" width="157.08" height="11.19" fill="#2ad1d1" stroke="#1e9898">
-</rect>
-<rect id="Rect_45" x="427.46" y="142.37" width="157.08" height="7.16" fill="#dd5757" stroke="#a44040">
-</rect>
-<rect id="Rect_46" x="427.46" y="131.67" width="157.08" height="10.7" fill="#15b57b" stroke="#0e7c54">
-</rect>
-<rect id="Rect_47" x="427.46" y="121.88" width="157.08" height="9.79" fill="#ff6fbd" stroke="#c65693">
-</rect>
-<rect id="Rect_48" x="427.46" y="114.95" width="157.08" height="6.93" fill="#72e2ff" stroke="#58b0c6">
-</rect>
-<rect id="Rect_49" x="427.46" y="103.4" width="157.08" height="11.55" fill="#ffff71" stroke="#c6c658">
-</rect>
-<rect id="Rect_50" x="612.26" y="204.38" width="157.08" height="39.62" fill="#33a3ff" stroke="#277fc6">
-</rect>
-<rect id="Rect_51" x="612.26" y="180.21" width="157.08" height="24.17" fill="#ffcc32" stroke="#c69f26">
-</rect>
-<rect id="Rect_52" x="612.26" y="169.73" width="157.08" height="10.48" fill="#9471ff" stroke="#7358c6">
-</rect>
-<rect id="Rect_53" x="612.26" y="158.05" width="157.08" height="11.68" fill="#ff8224" stroke="#c6651c">
-</rect>
-<rect id="Rect_54" x="612.26" y="144.94" width="157.08" height="13.11" fill="#2ad1d1" stroke="#1e9898">
-</rect>
-<rect id="Rect_55" x="612.26" y="135.93" width="157.08" height="9.01" fill="#dd5757" stroke="#a44040">
-</rect>
-<rect id="Rect_56" x="612.26" y="125.39" width="157.08" height="10.54" fill="#15b57b" stroke="#0e7c54">
-</rect>
-<rect id="Rect_57" x="612.26" y="115.01" width="157.08" height="10.38" fill="#ff6fbd" stroke="#c65693">
-</rect>
-<rect id="Rect_58" x="612.26" y="107.56" width="157.08" height="7.45" fill="#72e2ff" stroke="#58b0c6">
-</rect>
-<rect id="Rect_59" x="612.26" y="96.31" width="157.08" height="11.26" fill="#ffff71" stroke="#c6c658">
-</rect>
-<rect id="Rect_60" x="797.06" y="201.12" width="157.08" height="42.88" fill="#33a3ff" stroke="#277fc6">
-</rect>
-<rect id="Rect_61" x="797.06" y="176.4" width="157.08" height="24.72" fill="#ffcc32" stroke="#c69f26">
-</rect>
-<rect id="Rect_62" x="797.06" y="166.12" width="157.08" height="10.28" fill="#9471ff" stroke="#7358c6">
-</rect>
-<rect id="Rect_63" x="797.06" y="152.23" width="157.08" height="13.89" fill="#ff8224" stroke="#c6651c">
-</rect>
-<rect id="Rect_64" x="797.06" y="139.25" width="157.08" height="12.98" fill="#2ad1d1" stroke="#1e9898">
-</rect>
-<rect id="Rect_65" x="797.06" y="130.37" width="157.08" height="8.88" fill="#dd5757" stroke="#a44040">
-</rect>
-<rect id="Rect_66" x="797.06" y="118.2" width="157.08" height="12.17" fill="#15b57b" stroke="#0e7c54">
-</rect>
-<rect id="Rect_67" x="797.06" y="106.23" width="157.08" height="11.97" fill="#ff6fbd" stroke="#c65693">
-</rect>
-<rect id="Rect_68" x="797.06" y="98.52" width="157.08" height="7.71" fill="#72e2ff" stroke="#58b0c6">
-</rect>
-<rect id="Rect_69" x="797.06" y="87.52" width="157.08" height="11.0" fill="#ffff71" stroke="#c6c658">
-</rect>
-<path d="M44.0 244.0L969.0 244.0Z" stroke="#2a3037" fill="none">
+<path d="M37.0 244.0L969.0 244.0Z" stroke="#2a3037" fill="none">
 </path>
 </g>
-<path d="M44.0 244.0L969.0 244.0" stroke="#2a3037" stroke-dasharray="1,2" fill="none" opacity="0.4">
+<path d="M37.0 244.0L969.0 244.0" stroke="#2a3037" stroke-dasharray="1,2" fill="none" opacity="0.4">
 </path>
-<path d="M44.0 211.47L969.0 211.47" stroke="#2a3037" stroke-dasharray="1,2" fill="none" opacity="0.4">
+<path d="M37.0 205.0L969.0 205.0" stroke="#2a3037" stroke-dasharray="1,2" fill="none" opacity="0.4">
 </path>
-<path d="M44.0 178.94L969.0 178.94" stroke="#2a3037" stroke-dasharray="1,2" fill="none" opacity="0.4">
+<path d="M37.0 166.0L969.0 166.0" stroke="#2a3037" stroke-dasharray="1,2" fill="none" opacity="0.4">
 </path>
-<path d="M44.0 146.4L969.0 146.4" stroke="#2a3037" stroke-dasharray="1,2" fill="none" opacity="0.4">
+<path d="M37.0 126.99L969.0 126.99" stroke="#2a3037" stroke-dasharray="1,2" fill="none" opacity="0.4">
 </path>
-<path d="M44.0 113.87L969.0 113.87" stroke="#2a3037" stroke-dasharray="1,2" fill="none" opacity="0.4">
-</path>
-<path d="M44.0 81.34L969.0 81.34" stroke="#2a3037" stroke-dasharray="1,2" fill="none" opacity="0.4">
+<path d="M37.0 87.99L969.0 87.99" stroke="#2a3037" stroke-dasharray="1,2" fill="none" opacity="0.4">
 </path>
 <defs>
 <clipPath id="ClipPath3">
-<rect x="44" y="243" width="925" height="177">
+<rect x="37" y="243" width="932" height="177">
 </rect>
 </clipPath>
 </defs>
 <g clip-path="url(#ClipPath3)">
-<rect id="Rect_73" x="57.86" y="381.49" width="157.08" height="38.51" fill="#33a3ff" stroke="#277fc6">
+<rect id="Rect_33" x="71.91" y="377.15" width="395.68" height="42.85" fill="#33a3ff" stroke="#277fc6">
 </rect>
-<rect id="Rect_74" x="57.86" y="356.4" width="157.08" height="25.09" fill="#ffcc32" stroke="#c69f26">
+<rect id="Rect_34" x="71.91" y="349.32" width="395.68" height="27.84" fill="#ffcc32" stroke="#c69f26">
 </rect>
-<rect id="Rect_75" x="57.86" y="345.08" width="157.08" height="11.32" fill="#9471ff" stroke="#7358c6">
+<rect id="Rect_35" x="71.91" y="337.35" width="395.68" height="11.97" fill="#9471ff" stroke="#7358c6">
 </rect>
-<rect id="Rect_76" x="57.86" y="330.55" width="157.08" height="14.53" fill="#ff8224" stroke="#c6651c">
+<rect id="Rect_36" x="71.91" y="320.98" width="395.68" height="16.37" fill="#ff8224" stroke="#c6651c">
 </rect>
-<rect id="Rect_77" x="57.86" y="317.1" width="157.08" height="13.45" fill="#2ad1d1" stroke="#1e9898">
+<rect id="Rect_37" x="71.91" y="307.14" width="395.68" height="13.85" fill="#2ad1d1" stroke="#1e9898">
 </rect>
-<rect id="Rect_78" x="57.86" y="307.96" width="157.08" height="9.15" fill="#dd5757" stroke="#a44040">
+<rect id="Rect_38" x="71.91" y="297.88" width="395.68" height="9.25" fill="#dd5757" stroke="#a44040">
 </rect>
-<rect id="Rect_79" x="57.86" y="294.67" width="157.08" height="13.28" fill="#15b57b" stroke="#0e7c54">
+<rect id="Rect_39" x="71.91" y="284.01" width="395.68" height="13.88" fill="#15b57b" stroke="#0e7c54">
 </rect>
-<rect id="Rect_80" x="57.86" y="281.18" width="157.08" height="13.49" fill="#ff6fbd" stroke="#c65693">
+<rect id="Rect_40" x="71.91" y="270.63" width="395.68" height="13.38" fill="#ff6fbd" stroke="#c65693">
 </rect>
-<rect id="Rect_81" x="57.86" y="272.47" width="157.08" height="8.71" fill="#72e2ff" stroke="#58b0c6">
+<rect id="Rect_41" x="71.91" y="262.05" width="395.68" height="8.59" fill="#72e2ff" stroke="#58b0c6">
 </rect>
-<rect id="Rect_82" x="57.86" y="258.8" width="157.08" height="13.68" fill="#ffff71" stroke="#c6c658">
+<rect id="Rect_42" x="71.91" y="249.86" width="395.68" height="12.19" fill="#ffff71" stroke="#c6c658">
 </rect>
-<rect id="Rect_83" x="242.66" y="381.91" width="157.08" height="38.09" fill="#33a3ff" stroke="#277fc6">
+<rect id="Rect_43" x="537.41" y="377.2" width="395.68" height="42.8" fill="#33a3ff" stroke="#277fc6">
 </rect>
-<rect id="Rect_84" x="242.66" y="357.12" width="157.08" height="24.79" fill="#ffcc32" stroke="#c69f26">
+<rect id="Rect_44" x="537.41" y="350.06" width="395.68" height="27.14" fill="#ffcc32" stroke="#c69f26">
 </rect>
-<rect id="Rect_85" x="242.66" y="346.51" width="157.08" height="10.6" fill="#9471ff" stroke="#7358c6">
+<rect id="Rect_45" x="537.41" y="338.62" width="395.68" height="11.44" fill="#9471ff" stroke="#7358c6">
 </rect>
-<rect id="Rect_86" x="242.66" y="332.77" width="157.08" height="13.75" fill="#ff8224" stroke="#c6651c">
+<rect id="Rect_46" x="537.41" y="323.16" width="395.68" height="15.46" fill="#ff8224" stroke="#c6651c">
 </rect>
-<rect id="Rect_87" x="242.66" y="319.67" width="157.08" height="13.1" fill="#2ad1d1" stroke="#1e9898">
+<rect id="Rect_47" x="537.41" y="309.05" width="395.68" height="14.1" fill="#2ad1d1" stroke="#1e9898">
 </rect>
-<rect id="Rect_88" x="242.66" y="311.4" width="157.08" height="8.27" fill="#dd5757" stroke="#a44040">
+<rect id="Rect_48" x="537.41" y="299.7" width="395.68" height="9.35" fill="#dd5757" stroke="#a44040">
 </rect>
-<rect id="Rect_89" x="242.66" y="298.65" width="157.08" height="12.75" fill="#15b57b" stroke="#0e7c54">
+<rect id="Rect_49" x="537.41" y="286.81" width="395.68" height="12.89" fill="#15b57b" stroke="#0e7c54">
 </rect>
-<rect id="Rect_90" x="242.66" y="285.94" width="157.08" height="12.71" fill="#ff6fbd" stroke="#c65693">
+<rect id="Rect_50" x="537.41" y="271.88" width="395.68" height="14.93" fill="#ff6fbd" stroke="#c65693">
 </rect>
-<rect id="Rect_91" x="242.66" y="277.21" width="157.08" height="8.73" fill="#72e2ff" stroke="#58b0c6">
+<rect id="Rect_51" x="537.41" y="262.72" width="395.68" height="9.16" fill="#72e2ff" stroke="#58b0c6">
 </rect>
-<rect id="Rect_92" x="242.66" y="264.99" width="157.08" height="12.22" fill="#ffff71" stroke="#c6c658">
+<rect id="Rect_52" x="537.41" y="249.0" width="395.68" height="13.72" fill="#ffff71" stroke="#c6c658">
 </rect>
-<rect id="Rect_93" x="427.46" y="382.92" width="157.08" height="37.08" fill="#33a3ff" stroke="#277fc6">
-</rect>
-<rect id="Rect_94" x="427.46" y="357.23" width="157.08" height="25.69" fill="#ffcc32" stroke="#c69f26">
-</rect>
-<rect id="Rect_95" x="427.46" y="346.77" width="157.08" height="10.47" fill="#9471ff" stroke="#7358c6">
-</rect>
-<rect id="Rect_96" x="427.46" y="331.43" width="157.08" height="15.34" fill="#ff8224" stroke="#c6651c">
-</rect>
-<rect id="Rect_97" x="427.46" y="317.36" width="157.08" height="14.07" fill="#2ad1d1" stroke="#1e9898">
-</rect>
-<rect id="Rect_98" x="427.46" y="308.58" width="157.08" height="8.78" fill="#dd5757" stroke="#a44040">
-</rect>
-<rect id="Rect_99" x="427.46" y="295.97" width="157.08" height="12.61" fill="#15b57b" stroke="#0e7c54">
-</rect>
-<rect id="Rect_100" x="427.46" y="283.72" width="157.08" height="12.24" fill="#ff6fbd" stroke="#c65693">
-</rect>
-<rect id="Rect_101" x="427.46" y="275.8" width="157.08" height="7.92" fill="#72e2ff" stroke="#58b0c6">
-</rect>
-<rect id="Rect_102" x="427.46" y="263.9" width="157.08" height="11.9" fill="#ffff71" stroke="#c6c658">
-</rect>
-<rect id="Rect_103" x="612.26" y="380.29" width="157.08" height="39.71" fill="#33a3ff" stroke="#277fc6">
-</rect>
-<rect id="Rect_104" x="612.26" y="354.64" width="157.08" height="25.64" fill="#ffcc32" stroke="#c69f26">
-</rect>
-<rect id="Rect_105" x="612.26" y="343.23" width="157.08" height="11.41" fill="#9471ff" stroke="#7358c6">
-</rect>
-<rect id="Rect_106" x="612.26" y="328.45" width="157.08" height="14.79" fill="#ff8224" stroke="#c6651c">
-</rect>
-<rect id="Rect_107" x="612.26" y="313.94" width="157.08" height="14.51" fill="#2ad1d1" stroke="#1e9898">
-</rect>
-<rect id="Rect_108" x="612.26" y="303.96" width="157.08" height="9.98" fill="#dd5757" stroke="#a44040">
-</rect>
-<rect id="Rect_109" x="612.26" y="290.17" width="157.08" height="13.79" fill="#15b57b" stroke="#0e7c54">
-</rect>
-<rect id="Rect_110" x="612.26" y="276.63" width="157.08" height="13.54" fill="#ff6fbd" stroke="#c65693">
-</rect>
-<rect id="Rect_111" x="612.26" y="267.16" width="157.08" height="9.47" fill="#72e2ff" stroke="#58b0c6">
-</rect>
-<rect id="Rect_112" x="612.26" y="254.71" width="157.08" height="12.45" fill="#ffff71" stroke="#c6c658">
-</rect>
-<rect id="Rect_113" x="797.06" y="376.59" width="157.08" height="43.41" fill="#33a3ff" stroke="#277fc6">
-</rect>
-<rect id="Rect_114" x="797.06" y="350.0" width="157.08" height="26.59" fill="#ffcc32" stroke="#c69f26">
-</rect>
-<rect id="Rect_115" x="797.06" y="338.17" width="157.08" height="11.83" fill="#9471ff" stroke="#7358c6">
-</rect>
-<rect id="Rect_116" x="797.06" y="322.93" width="157.08" height="15.25" fill="#ff8224" stroke="#c6651c">
-</rect>
-<rect id="Rect_117" x="797.06" y="307.08" width="157.08" height="15.85" fill="#2ad1d1" stroke="#1e9898">
-</rect>
-<rect id="Rect_118" x="797.06" y="298.23" width="157.08" height="8.85" fill="#dd5757" stroke="#a44040">
-</rect>
-<rect id="Rect_119" x="797.06" y="284.81" width="157.08" height="13.42" fill="#15b57b" stroke="#0e7c54">
-</rect>
-<rect id="Rect_120" x="797.06" y="271.46" width="157.08" height="13.35" fill="#ff6fbd" stroke="#c65693">
-</rect>
-<rect id="Rect_121" x="797.06" y="262.08" width="157.08" height="9.38" fill="#72e2ff" stroke="#58b0c6">
-</rect>
-<rect id="Rect_122" x="797.06" y="249.0" width="157.08" height="13.08" fill="#ffff71" stroke="#c6c658">
-</rect>
-<path d="M44.0 420.0L969.0 420.0Z" stroke="#2a3037" fill="none">
+<path d="M37.0 420.0L969.0 420.0Z" stroke="#2a3037" fill="none">
 </path>
 </g>
-<path d="M44.0 420.0L969.0 420.0" stroke="#2a3037" stroke-dasharray="1,2" fill="none" opacity="0.4">
+<path d="M37.0 420.0L969.0 420.0" stroke="#2a3037" stroke-dasharray="1,2" fill="none" opacity="0.4">
 </path>
-<path d="M44.0 387.66L969.0 387.66" stroke="#2a3037" stroke-dasharray="1,2" fill="none" opacity="0.4">
+<path d="M37.0 381.22L969.0 381.22" stroke="#2a3037" stroke-dasharray="1,2" fill="none" opacity="0.4">
 </path>
-<path d="M44.0 355.31L969.0 355.31" stroke="#2a3037" stroke-dasharray="1,2" fill="none" opacity="0.4">
+<path d="M37.0 342.45L969.0 342.45" stroke="#2a3037" stroke-dasharray="1,2" fill="none" opacity="0.4">
 </path>
-<path d="M44.0 322.97L969.0 322.97" stroke="#2a3037" stroke-dasharray="1,2" fill="none" opacity="0.4">
+<path d="M37.0 303.67L969.0 303.67" stroke="#2a3037" stroke-dasharray="1,2" fill="none" opacity="0.4">
 </path>
-<path d="M44.0 290.63L969.0 290.63" stroke="#2a3037" stroke-dasharray="1,2" fill="none" opacity="0.4">
-</path>
-<path d="M44.0 258.29L969.0 258.29" stroke="#2a3037" stroke-dasharray="1,2" fill="none" opacity="0.4">
+<path d="M37.0 264.9L969.0 264.9" stroke="#2a3037" stroke-dasharray="1,2" fill="none" opacity="0.4">
 </path>
 </g>
 <defs>
 <clipPath id="ClipPath4">
-<rect x="19" y="67" width="25" height="177">
+<rect x="19" y="67" width="18" height="177">
 </rect>
 </clipPath>
 </defs>
 <g clip-path="url(#ClipPath4)">
-<g fill="#626f80" stroke="#626f80" transform="translate(32.04 241.3) scale(0.012 -0.012)">
+<g fill="#626f80" stroke="#626f80" transform="translate(25.04 241.3) scale(0.012 -0.012)">
 <defs>
 <path id="g48/TT0" d="M522.0 353.0Q 522.0,195.0  467.0,88.5 T 290.0,-18.0 Q 167.0,-18.0  112.5,88.5 T 58.0,353.0 Q 58.0,512.0  112.5,619.0 T 290.0,726.0 Q 412.0,726.0  467.0,618.5 T 522.0,353.0 Z M131.0 353.0Q 131.0,226.0  167.5,135.0 T 290.0,44.0 Q 375.0,44.0  412.0,135.5 T 449.0,353.0 Q 449.0,480.0  412.0,572.5 T 290.0,665.0 Q 204.0,665.0  167.5,573.0 T 131.0,353.0 Z">
 </path>
 </defs>
 <use x="0" y="0" xlink:href="#g48/TT0"/>
 </g>
-<text id="Text_125" x="39.0" y="241.3" font-size="9.0pt" font-family="Avenir Next for SAS" fill="#626f80" text-anchor="end" opacity="0">
+<text id="Text_55" x="32.0" y="241.3" font-size="9.0pt" font-family="Avenir Next for SAS" fill="#626f80" text-anchor="end" opacity="0">
 0</text>
-<g fill="#626f80" stroke="#626f80" transform="translate(25.08 215.77) scale(0.012 -0.012)">
+<g fill="#626f80" stroke="#626f80" transform="translate(18.08 209.3) scale(0.012 -0.012)">
 <defs>
 <path id="g50/TT0" d="M51.0 0 L51.0 75.0 L341.0 368.0Q 380.0,408.0  403.0,447.0 T 426.0,530.0 Q 426.0,590.0  385.5,627.5 T 286.0,665.0 Q 230.0,665.0  191.0,630.0 T 140.0,539.0  L69.0 553.0Q 84.0,629.0  144.0,677.5 T 286.0,726.0 Q 344.0,726.0  392.5,703.5 T 470.0,637.0 T 499.0,531.0 Q 499.0,469.0  470.0,421.5 T 384.0,317.0  L129.0 64.0 L504.0 64.0 L504.0 0 L51.0 0Z">
 </path>
@@ -368,9 +224,9 @@ day_night</text>
 <use x="0" y="0" xlink:href="#g50/TT0"/>
 <use x="580.0" y="0" xlink:href="#g48/TT0"/>
 </g>
-<text id="Text_126" x="39.0" y="215.77" font-size="9.0pt" font-family="Avenir Next for SAS" fill="#626f80" text-anchor="end" opacity="0">
+<text id="Text_56" x="32.0" y="209.3" font-size="9.0pt" font-family="Avenir Next for SAS" fill="#626f80" text-anchor="end" opacity="0">
 20</text>
-<g fill="#626f80" stroke="#626f80" transform="translate(25.08 183.24) scale(0.012 -0.012)">
+<g fill="#626f80" stroke="#626f80" transform="translate(18.08 170.3) scale(0.012 -0.012)">
 <defs>
 <path id="g52/TT0" d="M436.0 234.0 L540.0 234.0 L540.0 171.0 L436.0 171.0 L436.0 0 L366.0 0 L366.0 171.0 L42.0 171.0 L42.0 241.0 L342.0 708.0 L436.0 708.0 L436.0 234.0Z M366.0 627.0 L364.0 627.0 L117.0 234.0 L366.0 234.0 L366.0 627.0Z">
 </path>
@@ -378,9 +234,9 @@ day_night</text>
 <use x="0" y="0" xlink:href="#g52/TT0"/>
 <use x="580.0" y="0" xlink:href="#g48/TT0"/>
 </g>
-<text id="Text_127" x="39.0" y="183.24" font-size="9.0pt" font-family="Avenir Next for SAS" fill="#626f80" text-anchor="end" opacity="0">
+<text id="Text_57" x="32.0" y="170.3" font-size="9.0pt" font-family="Avenir Next for SAS" fill="#626f80" text-anchor="end" opacity="0">
 40</text>
-<g fill="#626f80" stroke="#626f80" transform="translate(25.08 150.71) scale(0.012 -0.012)">
+<g fill="#626f80" stroke="#626f80" transform="translate(18.08 131.3) scale(0.012 -0.012)">
 <defs>
 <path id="g54/TT0" d="M203.0 397.0Q 218.0,409.0  247.0,416.0 T 304.0,423.0 Q 365.0,423.0  414.5,395.5 T 492.0,318.0 T 520.0,205.0 Q 520.0,140.0  490.5,89.5 T 408.5,10.5 T 290.0,-18.0 Q 224.0,-18.0  171.5,10.5 T 89.5,89.5 T 60.0,205.0 Q 60.0,255.0  77.0,301.5 T 124.0,397.0  L317.0 708.0 L400.0 708.0 L201.0 399.0 L203.0 397.0Z M290.0 43.0Q 336.0,43.0  372.0,64.0 T 428.0,122.0 T 448.0,205.0 Q 448.0,275.0  405.0,320.0 T 290.0,365.0 Q 218.0,365.0  175.0,320.0 T 132.0,205.0 Q 132.0,159.0  152.0,122.0 T 208.0,64.0 T 244.0,43.0 Z">
 </path>
@@ -388,9 +244,9 @@ day_night</text>
 <use x="0" y="0" xlink:href="#g54/TT0"/>
 <use x="580.0" y="0" xlink:href="#g48/TT0"/>
 </g>
-<text id="Text_128" x="39.0" y="150.71" font-size="9.0pt" font-family="Avenir Next for SAS" fill="#626f80" text-anchor="end" opacity="0">
+<text id="Text_58" x="32.0" y="131.3" font-size="9.0pt" font-family="Avenir Next for SAS" fill="#626f80" text-anchor="end" opacity="0">
 60</text>
-<g fill="#626f80" stroke="#626f80" transform="translate(25.08 118.18) scale(0.012 -0.012)">
+<g fill="#626f80" stroke="#626f80" transform="translate(18.08 92.29) scale(0.012 -0.012)">
 <defs>
 <path id="g56/TT0" d="M517.0 186.0Q 517.0,126.0  486.0,79.5 T 403.0,7.5 T 290.0,-18.0 Q 229.0,-18.0  177.0,7.5 T 94.0,79.5 T 63.0,186.0 Q 63.0,256.0  100.5,306.5 T 197.0,375.0  L197.0 377.0Q 150.0,393.0  120.0,437.5 T 90.0,537.0 Q 90.0,593.0  117.0,636.0 T 190.0,702.5 T 290.0,726.0 Q 344.0,726.0  390.0,702.5 T 463.0,636.0 T 490.0,537.0 Q 490.0,482.0  460.0,437.5 T 383.0,377.0  L383.0 375.0Q 442.0,358.0  479.5,307.0 T 517.0,186.0 Z M290.0 406.0Q 345.0,406.0  382.5,442.0 T 420.0,533.0 Q 420.0,590.0  383.0,627.5 T 290.0,665.0 Q 234.0,665.0  197.0,627.5 T 160.0,533.0 Q 160.0,478.0  197.5,442.0 T 290.0,406.0 Z M290.0 43.0Q 359.0,43.0  402.0,86.0 T 445.0,194.0 Q 445.0,258.0  402.0,300.0 T 290.0,342.0 Q 221.0,342.0  178.0,300.0 T 135.0,194.0 Q 135.0,129.0  178.0,86.0 T 290.0,43.0 Z">
 </path>
@@ -398,63 +254,45 @@ day_night</text>
 <use x="0" y="0" xlink:href="#g56/TT0"/>
 <use x="580.0" y="0" xlink:href="#g48/TT0"/>
 </g>
-<text id="Text_129" x="39.0" y="118.18" font-size="9.0pt" font-family="Avenir Next for SAS" fill="#626f80" text-anchor="end" opacity="0">
+<text id="Text_59" x="32.0" y="92.29" font-size="9.0pt" font-family="Avenir Next for SAS" fill="#626f80" text-anchor="end" opacity="0">
 80</text>
-<g fill="#626f80" stroke="#626f80" transform="translate(18.12 85.64) scale(0.012 -0.012)">
-<defs>
-<path id="g49/TT0" d="M358.0 0 L286.0 0 L286.0 619.0 L158.0 510.0 L114.0 560.0 L294.0 708.0 L358.0 708.0 L358.0 0Z">
-</path>
-</defs>
-<use x="0" y="0" xlink:href="#g49/TT0"/>
-<use x="580.0" y="0" xlink:href="#g48/TT0"/>
-<use x="1160.0" y="0" xlink:href="#g48/TT0"/>
-</g>
-<text id="Text_130" x="39.0" y="85.64" font-size="9.0pt" font-family="Avenir Next for SAS" fill="#626f80" text-anchor="end" opacity="0">
-100</text>
 </g>
 <defs>
 <clipPath id="ClipPath5">
-<rect x="19" y="244" width="25" height="176">
+<rect x="19" y="244" width="18" height="176">
 </rect>
 </clipPath>
 </defs>
 <g clip-path="url(#ClipPath5)">
-<g fill="#626f80" stroke="#626f80" transform="translate(32.04 417.3) scale(0.012 -0.012)">
+<g fill="#626f80" stroke="#626f80" transform="translate(25.04 417.3) scale(0.012 -0.012)">
 <use x="0" y="0" xlink:href="#g48/TT0"/>
 </g>
-<text id="Text_132" x="39.0" y="417.3" font-size="9.0pt" font-family="Avenir Next for SAS" fill="#626f80" text-anchor="end" opacity="0">
+<text id="Text_61" x="32.0" y="417.3" font-size="9.0pt" font-family="Avenir Next for SAS" fill="#626f80" text-anchor="end" opacity="0">
 0</text>
-<g fill="#626f80" stroke="#626f80" transform="translate(25.08 391.96) scale(0.012 -0.012)">
+<g fill="#626f80" stroke="#626f80" transform="translate(18.08 385.53) scale(0.012 -0.012)">
 <use x="0" y="0" xlink:href="#g50/TT0"/>
 <use x="580.0" y="0" xlink:href="#g48/TT0"/>
 </g>
-<text id="Text_133" x="39.0" y="391.96" font-size="9.0pt" font-family="Avenir Next for SAS" fill="#626f80" text-anchor="end" opacity="0">
+<text id="Text_62" x="32.0" y="385.53" font-size="9.0pt" font-family="Avenir Next for SAS" fill="#626f80" text-anchor="end" opacity="0">
 20</text>
-<g fill="#626f80" stroke="#626f80" transform="translate(25.08 359.62) scale(0.012 -0.012)">
+<g fill="#626f80" stroke="#626f80" transform="translate(18.08 346.75) scale(0.012 -0.012)">
 <use x="0" y="0" xlink:href="#g52/TT0"/>
 <use x="580.0" y="0" xlink:href="#g48/TT0"/>
 </g>
-<text id="Text_134" x="39.0" y="359.62" font-size="9.0pt" font-family="Avenir Next for SAS" fill="#626f80" text-anchor="end" opacity="0">
+<text id="Text_63" x="32.0" y="346.75" font-size="9.0pt" font-family="Avenir Next for SAS" fill="#626f80" text-anchor="end" opacity="0">
 40</text>
-<g fill="#626f80" stroke="#626f80" transform="translate(25.08 327.27) scale(0.012 -0.012)">
+<g fill="#626f80" stroke="#626f80" transform="translate(18.08 307.98) scale(0.012 -0.012)">
 <use x="0" y="0" xlink:href="#g54/TT0"/>
 <use x="580.0" y="0" xlink:href="#g48/TT0"/>
 </g>
-<text id="Text_135" x="39.0" y="327.27" font-size="9.0pt" font-family="Avenir Next for SAS" fill="#626f80" text-anchor="end" opacity="0">
+<text id="Text_64" x="32.0" y="307.98" font-size="9.0pt" font-family="Avenir Next for SAS" fill="#626f80" text-anchor="end" opacity="0">
 60</text>
-<g fill="#626f80" stroke="#626f80" transform="translate(25.08 294.93) scale(0.012 -0.012)">
+<g fill="#626f80" stroke="#626f80" transform="translate(18.08 269.2) scale(0.012 -0.012)">
 <use x="0" y="0" xlink:href="#g56/TT0"/>
 <use x="580.0" y="0" xlink:href="#g48/TT0"/>
 </g>
-<text id="Text_136" x="39.0" y="294.93" font-size="9.0pt" font-family="Avenir Next for SAS" fill="#626f80" text-anchor="end" opacity="0">
+<text id="Text_65" x="32.0" y="269.2" font-size="9.0pt" font-family="Avenir Next for SAS" fill="#626f80" text-anchor="end" opacity="0">
 80</text>
-<g fill="#626f80" stroke="#626f80" transform="translate(18.12 262.59) scale(0.012 -0.012)">
-<use x="0" y="0" xlink:href="#g49/TT0"/>
-<use x="580.0" y="0" xlink:href="#g48/TT0"/>
-<use x="1160.0" y="0" xlink:href="#g48/TT0"/>
-</g>
-<text id="Text_137" x="39.0" y="262.59" font-size="9.0pt" font-family="Avenir Next for SAS" fill="#626f80" text-anchor="end" opacity="0">
-100</text>
 </g>
 <g fill="#2a3037" stroke="#2a3037" transform="translate(19.0 63.59) scale(0.014 -0.014)">
 <defs>
@@ -601,18 +439,18 @@ day_night</text>
 <use x="61290.0" y="0" xlink:href="#g72/TT1"/>
 <use x="62029.0" y="0" xlink:href="#g122/TT1"/>
 </g>
-<text id="Text_138" x="19.0" y="63.59" font-size="10.5pt" font-family="Avenir Next for SAS" font-weight="bold" fill="#2a3037" text-anchor="start" opacity="0">
+<text id="Text_66" x="19.0" y="63.59" font-size="10.5pt" font-family="Avenir Next for SAS" font-weight="bold" fill="#2a3037" text-anchor="start" opacity="0">
 100-150 Hz / 150-200 Hz / 200-250 Hz / 250-300 Hz / 300-350 Hz / 350-400 Hz / 400-450 Hz / 450-500 Hz / 500-550 Hz / 550-600 Hz</text>
-<path d="M44.0 420.0L968.0 420.0Z" stroke="#2a3037" fill="none">
+<path d="M37.0 420.0L968.0 420.0Z" stroke="#2a3037" fill="none">
 </path>
 <defs>
 <clipPath id="ClipPath6">
-<rect x="44" y="420" width="924" height="49">
+<rect x="37" y="420" width="931" height="49">
 </rect>
 </clipPath>
 </defs>
 <g clip-path="url(#ClipPath6)">
-<g fill="#626f80" stroke="#626f80" transform="translate(86.4 440.65) scale(0.012 -0.012)">
+<g fill="#626f80" stroke="#626f80" transform="translate(219.75 440.65) scale(0.012 -0.012)">
 <defs>
 <path id="g70/TT0" d="M166.0 0 L94.0 0 L94.0 708.0 L521.0 708.0 L521.0 644.0 L166.0 644.0 L166.0 398.0 L496.0 398.0 L496.0 335.0 L166.0 335.0 L166.0 0Z">
 </path>
@@ -641,8 +479,12 @@ day_night</text>
 <use x="2712.0" y="0" xlink:href="#g97/TT0"/>
 <use x="3246.0" y="0" xlink:href="#g114/TT0"/>
 <use x="3606.0" y="0" xlink:href="#g121/TT0"/>
-<use x="4344.0" y="0" xlink:href="#g49/TT0"/>
-<use x="4924.0" y="0" xlink:href="#g52/TT0"/>
+<use x="4344.0" y="0" xlink:href="#g50/TT0"/>
+<defs>
+<path id="g53/TT0" d="M180.0 644.0 L175.0 425.0Q 219.0,441.0  273.0,441.0 Q 339.0,441.0  391.5,413.0 T 473.5,334.5 T 503.0,219.0 Q 503.0,151.0  473.5,97.0 T 390.5,12.5 T 268.0,-18.0 Q 194.0,-18.0  140.0,16.0 T 56.0,111.0  L121.0 140.0Q 140.0,96.0  179.0,70.0 T 264.0,44.0 Q 311.0,44.0  349.0,66.0 T 408.5,126.5 T 430.0,212.0 Q 430.0,289.0  380.5,335.5 T 254.0,382.0 Q 180.0,382.0  107.0,343.0  L114.0 708.0 L475.0 708.0 L475.0 644.0 L180.0 644.0Z">
+</path>
+</defs>
+<use x="4924.0" y="0" xlink:href="#g53/TT0"/>
 <defs>
 <path id="g44/TT0" d="M102.0 -140.0 L45.0 -140.0 L112.0 95.0 L183.0 95.0 L102.0 -140.0Z">
 </path>
@@ -651,15 +493,11 @@ day_night</text>
 <use x="6014.0" y="0" xlink:href="#g50/TT0"/>
 <use x="6594.0" y="0" xlink:href="#g48/TT0"/>
 <use x="7174.0" y="0" xlink:href="#g50/TT0"/>
-<defs>
-<path id="g53/TT0" d="M180.0 644.0 L175.0 425.0Q 219.0,441.0  273.0,441.0 Q 339.0,441.0  391.5,413.0 T 473.5,334.5 T 503.0,219.0 Q 503.0,151.0  473.5,97.0 T 390.5,12.5 T 268.0,-18.0 Q 194.0,-18.0  140.0,16.0 T 56.0,111.0  L121.0 140.0Q 140.0,96.0  179.0,70.0 T 264.0,44.0 Q 311.0,44.0  349.0,66.0 T 408.5,126.5 T 430.0,212.0 Q 430.0,289.0  380.5,335.5 T 254.0,382.0 Q 180.0,382.0  107.0,343.0  L114.0 708.0 L475.0 708.0 L475.0 644.0 L180.0 644.0Z">
-</path>
-</defs>
 <use x="7754.0" y="0" xlink:href="#g53/TT0"/>
 </g>
-<text id="Text_140" x="136.4" y="440.65" font-size="9.0pt" font-family="Avenir Next for SAS" fill="#626f80" text-anchor="middle" opacity="0">
-February 14, 2025</text>
-<g fill="#626f80" stroke="#626f80" transform="translate(271.2 440.65) scale(0.012 -0.012)">
+<text id="Text_68" x="269.75" y="440.65" font-size="9.0pt" font-family="Avenir Next for SAS" fill="#626f80" text-anchor="middle" opacity="0">
+February 25, 2025</text>
+<g fill="#626f80" stroke="#626f80" transform="translate(685.25 440.65) scale(0.012 -0.012)">
 <use x="0" y="0" xlink:href="#g70/TT0"/>
 <use x="562.0" y="0" xlink:href="#g101/TT0"/>
 <use x="1134.0" y="0" xlink:href="#g98/TT0"/>
@@ -668,26 +506,7 @@ February 14, 2025</text>
 <use x="2712.0" y="0" xlink:href="#g97/TT0"/>
 <use x="3246.0" y="0" xlink:href="#g114/TT0"/>
 <use x="3606.0" y="0" xlink:href="#g121/TT0"/>
-<use x="4344.0" y="0" xlink:href="#g49/TT0"/>
-<use x="4924.0" y="0" xlink:href="#g53/TT0"/>
-<use x="5504.0" y="0" xlink:href="#g44/TT0"/>
-<use x="6014.0" y="0" xlink:href="#g50/TT0"/>
-<use x="6594.0" y="0" xlink:href="#g48/TT0"/>
-<use x="7174.0" y="0" xlink:href="#g50/TT0"/>
-<use x="7754.0" y="0" xlink:href="#g53/TT0"/>
-</g>
-<text id="Text_141" x="321.2" y="440.65" font-size="9.0pt" font-family="Avenir Next for SAS" fill="#626f80" text-anchor="middle" opacity="0">
-February 15, 2025</text>
-<g fill="#626f80" stroke="#626f80" transform="translate(456.0 440.65) scale(0.012 -0.012)">
-<use x="0" y="0" xlink:href="#g70/TT0"/>
-<use x="562.0" y="0" xlink:href="#g101/TT0"/>
-<use x="1134.0" y="0" xlink:href="#g98/TT0"/>
-<use x="1771.0" y="0" xlink:href="#g114/TT0"/>
-<use x="2131.0" y="0" xlink:href="#g117/TT0"/>
-<use x="2712.0" y="0" xlink:href="#g97/TT0"/>
-<use x="3246.0" y="0" xlink:href="#g114/TT0"/>
-<use x="3606.0" y="0" xlink:href="#g121/TT0"/>
-<use x="4344.0" y="0" xlink:href="#g49/TT0"/>
+<use x="4344.0" y="0" xlink:href="#g50/TT0"/>
 <use x="4924.0" y="0" xlink:href="#g54/TT0"/>
 <use x="5504.0" y="0" xlink:href="#g44/TT0"/>
 <use x="6014.0" y="0" xlink:href="#g50/TT0"/>
@@ -695,62 +514,14 @@ February 15, 2025</text>
 <use x="7174.0" y="0" xlink:href="#g50/TT0"/>
 <use x="7754.0" y="0" xlink:href="#g53/TT0"/>
 </g>
-<text id="Text_142" x="506.0" y="440.65" font-size="9.0pt" font-family="Avenir Next for SAS" fill="#626f80" text-anchor="middle" opacity="0">
-February 16, 2025</text>
-<g fill="#626f80" stroke="#626f80" transform="translate(640.8 440.65) scale(0.012 -0.012)">
-<use x="0" y="0" xlink:href="#g70/TT0"/>
-<use x="562.0" y="0" xlink:href="#g101/TT0"/>
-<use x="1134.0" y="0" xlink:href="#g98/TT0"/>
-<use x="1771.0" y="0" xlink:href="#g114/TT0"/>
-<use x="2131.0" y="0" xlink:href="#g117/TT0"/>
-<use x="2712.0" y="0" xlink:href="#g97/TT0"/>
-<use x="3246.0" y="0" xlink:href="#g114/TT0"/>
-<use x="3606.0" y="0" xlink:href="#g121/TT0"/>
-<use x="4344.0" y="0" xlink:href="#g49/TT0"/>
-<defs>
-<path id="g55/TT0" d="M498.0 642.0 L213.0 0 L132.0 0 L425.0 644.0 L78.0 644.0 L78.0 708.0 L498.0 708.0 L498.0 642.0Z">
-</path>
-</defs>
-<use x="4924.0" y="0" xlink:href="#g55/TT0"/>
-<use x="5504.0" y="0" xlink:href="#g44/TT0"/>
-<use x="6014.0" y="0" xlink:href="#g50/TT0"/>
-<use x="6594.0" y="0" xlink:href="#g48/TT0"/>
-<use x="7174.0" y="0" xlink:href="#g50/TT0"/>
-<use x="7754.0" y="0" xlink:href="#g53/TT0"/>
+<text id="Text_69" x="735.25" y="440.65" font-size="9.0pt" font-family="Avenir Next for SAS" fill="#626f80" text-anchor="middle" opacity="0">
+February 26, 2025</text>
 </g>
-<text id="Text_143" x="690.8" y="440.65" font-size="9.0pt" font-family="Avenir Next for SAS" fill="#626f80" text-anchor="middle" opacity="0">
-February 17, 2025</text>
-<g fill="#626f80" stroke="#626f80" transform="translate(825.6 440.65) scale(0.012 -0.012)">
-<use x="0" y="0" xlink:href="#g70/TT0"/>
-<use x="562.0" y="0" xlink:href="#g101/TT0"/>
-<use x="1134.0" y="0" xlink:href="#g98/TT0"/>
-<use x="1771.0" y="0" xlink:href="#g114/TT0"/>
-<use x="2131.0" y="0" xlink:href="#g117/TT0"/>
-<use x="2712.0" y="0" xlink:href="#g97/TT0"/>
-<use x="3246.0" y="0" xlink:href="#g114/TT0"/>
-<use x="3606.0" y="0" xlink:href="#g121/TT0"/>
-<use x="4344.0" y="0" xlink:href="#g49/TT0"/>
-<use x="4924.0" y="0" xlink:href="#g56/TT0"/>
-<use x="5504.0" y="0" xlink:href="#g44/TT0"/>
-<use x="6014.0" y="0" xlink:href="#g50/TT0"/>
-<use x="6594.0" y="0" xlink:href="#g48/TT0"/>
-<use x="7174.0" y="0" xlink:href="#g50/TT0"/>
-<use x="7754.0" y="0" xlink:href="#g53/TT0"/>
-</g>
-<text id="Text_144" x="875.6" y="440.65" font-size="9.0pt" font-family="Avenir Next for SAS" fill="#626f80" text-anchor="middle" opacity="0">
-February 18, 2025</text>
-</g>
-<path d="M136.4 420.0L136.4 426.0Z" stroke="#2a3037" fill="none">
+<path d="M269.75 420.0L269.75 426.0Z" stroke="#2a3037" fill="none">
 </path>
-<path d="M321.2 420.0L321.2 426.0Z" stroke="#2a3037" fill="none">
+<path d="M735.25 420.0L735.25 426.0Z" stroke="#2a3037" fill="none">
 </path>
-<path d="M506.0 420.0L506.0 426.0Z" stroke="#2a3037" fill="none">
-</path>
-<path d="M690.8 420.0L690.8 426.0Z" stroke="#2a3037" fill="none">
-</path>
-<path d="M875.6 420.0L875.6 426.0Z" stroke="#2a3037" fill="none">
-</path>
-<g fill="#2a3037" stroke="#2a3037" transform="translate(491.0 465.44) scale(0.014 -0.014)">
+<g fill="#2a3037" stroke="#2a3037" transform="translate(487.5 465.44) scale(0.014 -0.014)">
 <defs>
 <path id="g68/TT1" d="M329.0 708.0Q 430.0,708.0  518.5,673.0 T 663.5,558.5 T 720.0,354.0 Q 720.0,237.0  663.0,157.0 T 516.5,38.5 T 329.0,0  L78.0 0 L78.0 708.0 L329.0 708.0Z M585.0 354.0Q 585.0,492.0  506.0,546.0 T 309.0,600.0  L204.0 600.0 L204.0 110.0 L309.0 110.0Q 424.0,110.0  504.5,166.5 T 585.0,354.0 Z">
 </path>
@@ -772,11 +543,11 @@ February 18, 2025</text>
 </defs>
 <use x="1654.0" y="0" xlink:href="#g101/TT1"/>
 </g>
-<text id="Text_145" x="506.0" y="465.44" font-size="10.5pt" font-family="Avenir Next for SAS" font-weight="bold" fill="#2a3037" text-anchor="middle" opacity="0">
+<text id="Text_70" x="502.5" y="465.44" font-size="10.5pt" font-family="Avenir Next for SAS" font-weight="bold" fill="#2a3037" text-anchor="middle" opacity="0">
 Date</text>
 <path d="M0 244.0L968.0 244.0Z" stroke="#2a3037" fill="none">
 </path>
-<path d="M44.0 420.0L968.0 420.0Z" stroke="#2a3037" fill="none">
+<path d="M37.0 420.0L968.0 420.0Z" stroke="#2a3037" fill="none">
 </path>
 <defs>
 <clipPath id="ClipPath7">
@@ -785,7 +556,7 @@ Date</text>
 </clipPath>
 </defs>
 <g clip-path="url(#ClipPath7)">
-<path d="M0 420.0L44.0 420.0Z" stroke="#2a3037" fill="none">
+<path d="M0 420.0L37.0 420.0Z" stroke="#2a3037" fill="none">
 </path>
 </g>
 </g>
@@ -807,6 +578,10 @@ Date</text>
 <rect x="70.0" y="482.15" width="9.0" height="9.0" fill="url(#gradient0)">
 </rect>
 <g fill="#626f80" stroke="#626f80" transform="translate(83.0 490.95) scale(0.012 -0.012)">
+<defs>
+<path id="g49/TT0" d="M358.0 0 L286.0 0 L286.0 619.0 L158.0 510.0 L114.0 560.0 L294.0 708.0 L358.0 708.0 L358.0 0Z">
+</path>
+</defs>
 <use x="0" y="0" xlink:href="#g49/TT0"/>
 <use x="580.0" y="0" xlink:href="#g48/TT0"/>
 <use x="1160.0" y="0" xlink:href="#g48/TT0"/>
