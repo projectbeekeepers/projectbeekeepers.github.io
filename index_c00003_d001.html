@@ -76,7 +76,7 @@
 				<div class="inner">
 					<header class="align-center">
 					    <p><strong>Status:</strong> <span id="status">Connecting...</span></p>
-					    <input type="text" id="message" placeholder="Enter message">
+					    <input type="text" id="message" placeholder="Ask your question to the beehive!">
 					    <button onclick="publishMessage()">Send</button>
 					    <h2>Received Messages:</h2>
 					    <ul id="messages"></ul>
@@ -88,7 +88,7 @@
 <!-- Zero -->
 			<section id="one" class="wrapper style2">
 				<div class="inner">
-					<div class="grid-style">
+					<header class="align-center">
  
  
  
@@ -221,7 +221,7 @@
 		        const client = mqtt.connect(broker, options);
 		
 		        client.on("connect", () => {
-		            document.getElementById("status").textContent = "Connected";
+		            document.getElementById("status").textContent = "Connected to the hive!";
 		            console.log("Connected to MQTT Broker");
 		            client.subscribe("v000/c00003/d001/answer", (err) => {
 		                if (err) console.error("Subscribe error:", err);
@@ -230,7 +230,7 @@
  
 				client.on("message", (topic, message) => {
 		            console.log(`Received message on topic ${topic}: ${message.toString()}`);
-		            displayMessage(`Topic: ${topic} - Message: ${message.toString()}`);
+		            displayMessage(`${message.toString()}`);
 		        });
  
 		        function publishMessage() {
