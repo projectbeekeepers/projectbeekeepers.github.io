@@ -28,7 +28,7 @@
 <g transform="">
 </g>
 <g transform="">
-<polyline id="Polyline_261" points="45.0,406.0  55.92,406.0  66.83,406.0  77.75,394.49  88.67,371.24  99.58,279.54  110.5,67.69  121.42,315.07  132.33,383.88  143.25,406.0  154.17,406.0  165.08,406.0  176.0,406.0  186.92,406.0  197.83,406.0  208.75,390.34  219.67,374.36  230.58,312.19  241.5,55.0  252.42,248.97  263.33,377.62  274.25,406.0  285.17,406.0  296.08,406.0  307.0,406.0  317.92,406.0  328.83,406.0  339.75,395.24  350.67,367.75  361.58,314.26  372.5,160.98  383.42,278.51  394.33,390.24  405.25,406.0  416.17,406.0  427.08,406.0  438.0,406.0  448.92,406.0  459.83,405.99  470.75,395.03  481.67,370.16  492.58,290.73  503.5,95.17  514.42,278.7  525.33,383.27  536.25,406.0  547.17,406.0  558.08,406.0  569.0,406.0  579.92,406.0  590.83,406.0  601.75,397.58  612.67,385.22  623.58,328.6  634.5,184.47  645.42,319.76  656.33,385.83  667.25,406.0  678.17,406.0  689.08,406.0  700.0,406.0  710.92,406.0  721.83,405.97  732.75,395.12  743.67,368.68  754.58,334.06  765.5,91.01  776.42,278.8  787.33,388.46  798.25,405.99  809.17,406.0  820.08,406.0  831.0,406.0  841.92,406.0  852.83,405.98  863.75,395.31  874.67,370.0  885.58,358.73  896.5,250.76  907.42,211.84  918.33,365.48  929.25,405.99  940.17,406.0 " fill="none" stroke="#b7b7b7" stroke-width="3.0" stroke-dasharray="4,4" opacity="0.75">
+<polyline id="Polyline_267" points="45.0,406.0  55.92,406.0  66.83,406.0  77.75,394.49  88.67,371.24  99.58,279.54  110.5,67.69  121.42,315.07  132.33,383.88  143.25,406.0  154.17,406.0  165.08,406.0  176.0,406.0  186.92,406.0  197.83,406.0  208.75,390.34  219.67,374.36  230.58,312.19  241.5,55.0  252.42,248.97  263.33,377.62  274.25,406.0  285.17,406.0  296.08,406.0  307.0,406.0  317.92,406.0  328.83,406.0  339.75,395.24  350.67,367.75  361.58,314.26  372.5,160.98  383.42,278.51  394.33,390.24  405.25,406.0  416.17,406.0  427.08,406.0  438.0,406.0  448.92,406.0  459.83,405.99  470.75,395.03  481.67,370.16  492.58,290.73  503.5,95.17  514.42,278.7  525.33,383.27  536.25,406.0  547.17,406.0  558.08,406.0  569.0,406.0  579.92,406.0  590.83,406.0  601.75,397.58  612.67,385.22  623.58,328.6  634.5,184.47  645.42,319.76  656.33,385.83  667.25,406.0  678.17,406.0  689.08,406.0  700.0,406.0  710.92,406.0  721.83,405.97  732.75,395.12  743.67,368.68  754.58,334.06  765.5,91.01  776.42,278.8  787.33,388.46  798.25,405.99  809.17,406.0  820.08,406.0  831.0,406.0  841.92,406.0  852.83,405.98  863.75,395.31  874.67,370.0  885.58,358.73  896.5,250.76  907.42,211.84  918.33,365.48  929.25,405.99  940.17,406.0  951.08,406.0  962.0,406.0 " fill="none" stroke="#b7b7b7" stroke-width="3.0" stroke-dasharray="4,4" opacity="0.75">
 </polyline>
 </g>
 <g transform="">
@@ -75,7 +75,7 @@
 </defs>
 <use x="0" y="0" xlink:href="#g48/TT0"/>
 </g>
-<text id="Text_512" x="34.0" y="409.3" font-size="9.0pt" font-family="Avenir Next for SAS" fill="#626f80" text-anchor="end" opacity="0">
+<text id="Text_524" x="34.0" y="409.3" font-size="9.0pt" font-family="Avenir Next for SAS" fill="#626f80" text-anchor="end" opacity="0">
 0</text>
 <g fill="#626f80" stroke="#626f80" transform="translate(6.16 330.48) scale(0.012 -0.012)">
 <defs>
@@ -87,7 +87,7 @@
 <use x="1160.0" y="0" xlink:href="#g48/TT0"/>
 <use x="1740.0" y="0" xlink:href="#g48/TT0"/>
 </g>
-<text id="Text_513" x="34.0" y="330.48" font-size="9.0pt" font-family="Avenir Next for SAS" fill="#626f80" text-anchor="end" opacity="0">
+<text id="Text_525" x="34.0" y="330.48" font-size="9.0pt" font-family="Avenir Next for SAS" fill="#626f80" text-anchor="end" opacity="0">
 5000</text>
 <g fill="#626f80" stroke="#626f80" transform="translate(-0.8 250.66) scale(0.012 -0.012)">
 <defs>
@@ -100,7 +100,7 @@
 <use x="1740.0" y="0" xlink:href="#g48/TT0"/>
 <use x="2320.0" y="0" xlink:href="#g48/TT0"/>
 </g>
-<text id="Text_514" x="34.0" y="250.66" font-size="9.0pt" font-family="Avenir Next for SAS" fill="#626f80" text-anchor="end" opacity="0">
+<text id="Text_526" x="34.0" y="250.66" font-size="9.0pt" font-family="Avenir Next for SAS" fill="#626f80" text-anchor="end" opacity="0">
 10000</text>
 <g fill="#626f80" stroke="#626f80" transform="translate(-0.8 170.84) scale(0.012 -0.012)">
 <use x="0" y="0" xlink:href="#g49/TT0"/>
@@ -109,7 +109,7 @@
 <use x="1740.0" y="0" xlink:href="#g48/TT0"/>
 <use x="2320.0" y="0" xlink:href="#g48/TT0"/>
 </g>
-<text id="Text_515" x="34.0" y="170.84" font-size="9.0pt" font-family="Avenir Next for SAS" fill="#626f80" text-anchor="end" opacity="0">
+<text id="Text_527" x="34.0" y="170.84" font-size="9.0pt" font-family="Avenir Next for SAS" fill="#626f80" text-anchor="end" opacity="0">
 15000</text>
 <g fill="#626f80" stroke="#626f80" transform="translate(-0.8 91.02) scale(0.012 -0.012)">
 <defs>
@@ -122,7 +122,7 @@
 <use x="1740.0" y="0" xlink:href="#g48/TT0"/>
 <use x="2320.0" y="0" xlink:href="#g48/TT0"/>
 </g>
-<text id="Text_516" x="34.0" y="91.02" font-size="9.0pt" font-family="Avenir Next for SAS" fill="#626f80" text-anchor="end" opacity="0">
+<text id="Text_528" x="34.0" y="91.02" font-size="9.0pt" font-family="Avenir Next for SAS" fill="#626f80" text-anchor="end" opacity="0">
 20000</text>
 </g>
 <g fill="#2a3037" stroke="#2a3037" transform="translate(0 45.59) scale(0.014 -0.014)">
@@ -204,7 +204,7 @@
 </defs>
 <use x="10160.0" y="0" xlink:href="#g121/TT1"/>
 </g>
-<text id="Text_517" x="0" y="45.59" font-size="10.5pt" font-family="Avenir Next for SAS" font-weight="bold" fill="#2a3037" text-anchor="start" opacity="0">
+<text id="Text_529" x="0" y="45.59" font-size="10.5pt" font-family="Avenir Next for SAS" font-weight="bold" fill="#2a3037" text-anchor="start" opacity="0">
 Average Light Intensity</text>
 <defs>
 <clipPath id="ClipPath3">
@@ -344,7 +344,7 @@ Average Light Intensity</text>
 <use x="3086.0" y="0" xlink:href="#g109/TT1"/>
 <use x="3976.0" y="0" xlink:href="#g101/TT1"/>
 </g>
-<text id="Text_519" x="503.5" y="465.44" font-size="10.5pt" font-family="Avenir Next for SAS" font-weight="bold" fill="#2a3037" text-anchor="middle" opacity="0">
+<text id="Text_531" x="503.5" y="465.44" font-size="10.5pt" font-family="Avenir Next for SAS" font-weight="bold" fill="#2a3037" text-anchor="middle" opacity="0">
 Date time</text>
 </g>
 <g transform=" translate(16.0 -16.0)">
