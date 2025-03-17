@@ -27,15 +27,15 @@
 </defs>
 <g clip-path="url(#ClipPath1)">
 <g transform="">
-<polyline id="Polyline_52" points="31.0,218.64  54.28,219.36  77.55,220.08  100.82,220.45  124.1,219.36  147.38,219.0  170.65,217.92  193.93,216.84  217.2,215.75  240.48,216.11  263.75,216.84  287.02,217.56  310.3,217.92  333.58,218.28  356.85,218.64  380.13,218.64  403.4,218.64  426.67,219.0  449.95,217.2  473.23,215.39  496.5,214.67  519.78,214.67  543.05,216.11  566.33,216.48  589.6,217.56  612.88,219.0  636.15,219.36  659.42,219.36  682.7,218.64  705.97,218.64  729.25,216.48  752.53,213.23  775.8,212.14  799.08,212.86  822.35,213.95  845.63,215.03  868.9,215.75  892.17,215.75  915.45,216.48  938.72,216.84  962.0,217.2 " fill="none" stroke="#287fc7" stroke-width="3.0">
+<polyline id="Polyline_54" points="31.0,218.64  53.17,219.36  75.33,220.08  97.5,220.45  119.67,219.36  141.83,219.0  164.0,217.92  186.17,216.84  208.33,215.75  230.5,216.11  252.67,216.84  274.83,217.56  297.0,217.92  319.17,218.28  341.33,218.64  363.5,218.64  385.67,218.64  407.83,219.0  430.0,217.2  452.17,215.39  474.33,214.67  496.5,214.67  518.67,216.11  540.83,216.48  563.0,217.56  585.17,219.0  607.33,219.36  629.5,219.36  651.67,218.64  673.83,218.64  696.0,216.48  718.17,213.23  740.33,212.14  762.5,212.86  784.67,213.95  806.83,215.03  829.0,215.75  851.17,215.75  873.33,216.48  895.5,216.84  917.67,217.2  939.83,217.2  962.0,215.03 " fill="none" stroke="#287fc7" stroke-width="3.0">
 </polyline>
 </g>
 <g transform="">
-<polyline id="Polyline_135" points="31.0,183.8  54.28,178.39  77.55,177.85  100.82,216.84  124.1,214.55  147.38,216.11  170.65,228.15  193.93,236.09  217.2,239.94  240.48,239.7  263.75,200.77  287.02,195.0  310.3,193.91  333.58,192.47  356.85,232.6  380.13,232.96  403.4,230.92  426.67,240.66  449.95,238.26  473.23,237.77  496.5,238.38  519.78,233.92  543.05,195.54  566.33,190.48  589.6,187.23  612.88,184.89  636.15,224.3  659.42,220.57  682.7,222.01  705.97,239.82  729.25,239.94  752.53,237.89  775.8,235.97  799.08,228.15  822.35,188.32  845.63,183.98  868.9,189.04  892.17,192.65  915.45,226.1  938.72,223.21  962.0,225.14 " fill="none" stroke="#b7b7b7" stroke-width="3.0" stroke-dasharray="4,4" opacity="0.75">
+<polyline id="Polyline_141" points="31.0,183.8  53.17,178.39  75.33,177.85  97.5,216.84  119.67,214.55  141.83,216.11  164.0,228.15  186.17,236.09  208.33,239.94  230.5,239.7  252.67,200.77  274.83,195.0  297.0,193.91  319.17,192.47  341.33,232.6  363.5,232.96  385.67,230.92  407.83,240.66  430.0,238.26  452.17,237.77  474.33,238.38  496.5,233.92  518.67,195.54  540.83,190.48  563.0,187.23  585.17,184.89  607.33,224.3  629.5,220.57  651.67,222.01  673.83,239.82  696.0,239.94  718.17,237.89  740.33,235.97  762.5,228.15  784.67,188.32  806.83,183.98  829.0,189.04  851.17,192.65  873.33,226.1  895.5,223.21  917.67,225.14  939.83,256.73  962.0,248.42 " fill="none" stroke="#b7b7b7" stroke-width="3.0" stroke-dasharray="4,4" opacity="0.75">
 </polyline>
 </g>
 <g transform="">
-<polygon points="31.0,282.34  54.28,294.28  77.55,297.31  100.82,385.9  124.1,372.89  147.38,349.78  170.65,326.15  193.93,294.84  217.2,326.87  240.48,357.48  263.75,246.21  287.02,258.81  310.3,261.81  333.58,265.47  356.85,368.34  380.13,372.72  403.4,361.18  426.67,327.19  449.95,313.72  473.23,303.2  496.5,320.49  519.78,342.42  543.05,253.74  566.33,264.0  589.6,273.0  612.88,281.38  636.15,392.38  659.42,391.69  682.7,368.69  705.97,321.45  729.25,298.56  752.53,310.61  775.8,326.75  799.08,339.28  822.35,260.81  845.63,271.8  868.9,264.6  892.17,258.0  915.45,366.44  938.72,369.12  962.0,369.47  962.0,80.8  938.72,77.31  915.45,85.76  892.17,127.3  868.9,113.48  845.63,96.17  822.35,115.82  799.08,117.01  775.8,145.18  752.53,165.18  729.25,181.32  705.97,158.19  682.7,75.33  659.42,49.44  636.15,56.21  612.88,88.4  589.6,101.46  566.33,116.97  543.05,137.34  519.78,125.43  496.5,156.26  473.23,172.35  449.95,162.79  426.67,154.13  403.4,100.65  380.13,93.2  356.85,96.86  333.58,119.46  310.3,126.01  287.02,131.18  263.75,155.33  240.48,121.92  217.2,153.01  193.93,177.33  170.65,130.15  147.38,82.45  124.1,56.21  100.82,47.77  77.55,58.38  54.28,62.5  31.0,85.27 " fill="#d1d1d1" fill-opacity="0.6">
+<polygon points="31.0,282.34  53.17,294.28  75.33,297.31  97.5,385.9  119.67,372.89  141.83,349.78  164.0,326.15  186.17,294.84  208.33,326.87  230.5,357.48  252.67,246.21  274.83,258.81  297.0,261.81  319.17,265.47  341.33,368.34  363.5,372.72  385.67,361.18  407.83,327.19  430.0,313.72  452.17,303.2  474.33,320.49  496.5,342.42  518.67,253.74  540.83,264.0  563.0,273.0  585.17,281.38  607.33,392.38  629.5,391.69  651.67,368.69  673.83,321.45  696.0,298.56  718.17,310.61  740.33,326.75  762.5,339.28  784.67,260.81  806.83,271.8  829.0,264.6  851.17,258.0  873.33,366.44  895.5,369.12  917.67,369.47  939.83,368.53  962.0,342.87  962.0,153.98  939.83,144.92  917.67,80.8  895.5,77.31  873.33,85.76  851.17,127.3  829.0,113.48  806.83,96.17  784.67,115.82  762.5,117.01  740.33,145.18  718.17,165.18  696.0,181.32  673.83,158.19  651.67,75.33  629.5,49.44  607.33,56.21  585.17,88.4  563.0,101.46  540.83,116.97  518.67,137.34  496.5,125.43  474.33,156.26  452.17,172.35  430.0,162.79  407.83,154.13  385.67,100.65  363.5,93.2  341.33,96.86  319.17,119.46  297.0,126.01  274.83,131.18  252.67,155.33  230.5,121.92  208.33,153.01  186.17,177.33  164.0,130.15  141.83,82.45  119.67,56.21  97.5,47.77  75.33,58.38  53.17,62.5  31.0,85.27 " fill="#d1d1d1" fill-opacity="0.6">
 </polygon>
 </g>
 </g>
@@ -53,17 +53,19 @@
 </path>
 <path d="M31.0 412.0L31.0 38.0" stroke="#2a3037" stroke-dasharray="1,2" fill="none" opacity="0.4">
 </path>
-<path d="M170.65 412.0L170.65 38.0" stroke="#2a3037" stroke-dasharray="1,2" fill="none" opacity="0.4">
+<path d="M164.0 412.0L164.0 38.0" stroke="#2a3037" stroke-dasharray="1,2" fill="none" opacity="0.4">
 </path>
-<path d="M310.3 412.0L310.3 38.0" stroke="#2a3037" stroke-dasharray="1,2" fill="none" opacity="0.4">
+<path d="M297.0 412.0L297.0 38.0" stroke="#2a3037" stroke-dasharray="1,2" fill="none" opacity="0.4">
 </path>
-<path d="M449.95 412.0L449.95 38.0" stroke="#2a3037" stroke-dasharray="1,2" fill="none" opacity="0.4">
+<path d="M430.0 412.0L430.0 38.0" stroke="#2a3037" stroke-dasharray="1,2" fill="none" opacity="0.4">
 </path>
-<path d="M589.6 412.0L589.6 38.0" stroke="#2a3037" stroke-dasharray="1,2" fill="none" opacity="0.4">
+<path d="M563.0 412.0L563.0 38.0" stroke="#2a3037" stroke-dasharray="1,2" fill="none" opacity="0.4">
 </path>
-<path d="M729.25 412.0L729.25 38.0" stroke="#2a3037" stroke-dasharray="1,2" fill="none" opacity="0.4">
+<path d="M696.0 412.0L696.0 38.0" stroke="#2a3037" stroke-dasharray="1,2" fill="none" opacity="0.4">
 </path>
-<path d="M868.9 412.0L868.9 38.0" stroke="#2a3037" stroke-dasharray="1,2" fill="none" opacity="0.4">
+<path d="M829.0 412.0L829.0 38.0" stroke="#2a3037" stroke-dasharray="1,2" fill="none" opacity="0.4">
+</path>
+<path d="M962.0 412.0L962.0 38.0" stroke="#2a3037" stroke-dasharray="1,2" fill="none" opacity="0.4">
 </path>
 </g>
 <defs>
@@ -80,7 +82,7 @@
 </defs>
 <use x="0" y="0" xlink:href="#g48/TT0"/>
 </g>
-<text id="Text_301" x="20.0" y="409.3" font-size="9.0pt" font-family="Avenir Next for SAS" fill="#626f80" text-anchor="end" opacity="0">
+<text id="Text_315" x="20.0" y="409.3" font-size="9.0pt" font-family="Avenir Next for SAS" fill="#626f80" text-anchor="end" opacity="0">
 0</text>
 <g fill="#626f80" stroke="#626f80" transform="translate(6.08 338.1) scale(0.012 -0.012)">
 <defs>
@@ -90,7 +92,7 @@
 <use x="0" y="0" xlink:href="#g50/TT0"/>
 <use x="580.0" y="0" xlink:href="#g48/TT0"/>
 </g>
-<text id="Text_302" x="20.0" y="338.1" font-size="9.0pt" font-family="Avenir Next for SAS" fill="#626f80" text-anchor="end" opacity="0">
+<text id="Text_316" x="20.0" y="338.1" font-size="9.0pt" font-family="Avenir Next for SAS" fill="#626f80" text-anchor="end" opacity="0">
 20</text>
 <g fill="#626f80" stroke="#626f80" transform="translate(6.08 265.9) scale(0.012 -0.012)">
 <defs>
@@ -100,7 +102,7 @@
 <use x="0" y="0" xlink:href="#g52/TT0"/>
 <use x="580.0" y="0" xlink:href="#g48/TT0"/>
 </g>
-<text id="Text_303" x="20.0" y="265.9" font-size="9.0pt" font-family="Avenir Next for SAS" fill="#626f80" text-anchor="end" opacity="0">
+<text id="Text_317" x="20.0" y="265.9" font-size="9.0pt" font-family="Avenir Next for SAS" fill="#626f80" text-anchor="end" opacity="0">
 40</text>
 <g fill="#626f80" stroke="#626f80" transform="translate(6.08 193.7) scale(0.012 -0.012)">
 <defs>
@@ -110,7 +112,7 @@
 <use x="0" y="0" xlink:href="#g54/TT0"/>
 <use x="580.0" y="0" xlink:href="#g48/TT0"/>
 </g>
-<text id="Text_304" x="20.0" y="193.7" font-size="9.0pt" font-family="Avenir Next for SAS" fill="#626f80" text-anchor="end" opacity="0">
+<text id="Text_318" x="20.0" y="193.7" font-size="9.0pt" font-family="Avenir Next for SAS" fill="#626f80" text-anchor="end" opacity="0">
 60</text>
 <g fill="#626f80" stroke="#626f80" transform="translate(6.08 121.5) scale(0.012 -0.012)">
 <defs>
@@ -120,7 +122,7 @@
 <use x="0" y="0" xlink:href="#g56/TT0"/>
 <use x="580.0" y="0" xlink:href="#g48/TT0"/>
 </g>
-<text id="Text_305" x="20.0" y="121.5" font-size="9.0pt" font-family="Avenir Next for SAS" fill="#626f80" text-anchor="end" opacity="0">
+<text id="Text_319" x="20.0" y="121.5" font-size="9.0pt" font-family="Avenir Next for SAS" fill="#626f80" text-anchor="end" opacity="0">
 80</text>
 <g fill="#626f80" stroke="#626f80" transform="translate(-0.88 50.3) scale(0.012 -0.012)">
 <defs>
@@ -131,7 +133,7 @@
 <use x="580.0" y="0" xlink:href="#g48/TT0"/>
 <use x="1160.0" y="0" xlink:href="#g48/TT0"/>
 </g>
-<text id="Text_306" x="20.0" y="50.3" font-size="9.0pt" font-family="Avenir Next for SAS" fill="#626f80" text-anchor="end" opacity="0">
+<text id="Text_320" x="20.0" y="50.3" font-size="9.0pt" font-family="Avenir Next for SAS" fill="#626f80" text-anchor="end" opacity="0">
 100</text>
 </g>
 <g fill="#2a3037" stroke="#2a3037" transform="translate(0 35.59) scale(0.014 -0.014)">
@@ -229,7 +231,7 @@
 </defs>
 <use x="12730.0" y="0" xlink:href="#g41/TT1"/>
 </g>
-<text id="Text_307" x="0" y="35.59" font-size="10.5pt" font-family="Avenir Next for SAS" font-weight="bold" fill="#2a3037" text-anchor="start" opacity="0">
+<text id="Text_321" x="0" y="35.59" font-size="10.5pt" font-family="Avenir Next for SAS" font-weight="bold" fill="#2a3037" text-anchor="start" opacity="0">
 Relative Humidity inside (%)</text>
 <defs>
 <clipPath id="ClipPath3">
@@ -287,7 +289,7 @@ Relative Humidity inside (%)</text>
 </g>
 <text x="62.0" y="441.35" font-size="9.0pt" font-family="Avenir Next for SAS" fill="#626f80" text-anchor="middle" opacity="0">
 14Mar25</text>
-<g fill="#626f80" stroke="#626f80" transform="translate(136.65 426.65) scale(0.012 -0.012)">
+<g fill="#626f80" stroke="#626f80" transform="translate(130.0 426.65) scale(0.012 -0.012)">
 <use x="0" y="0" xlink:href="#g49/TT0"/>
 <use x="580.0" y="0" xlink:href="#g50/TT0"/>
 <use x="1160.0" y="0" xlink:href="#g58/TT0"/>
@@ -303,9 +305,9 @@ Relative Humidity inside (%)</text>
 <use x="4330.0" y="0" xlink:href="#g80/TT0"/>
 <use x="4910.0" y="0" xlink:href="#g77/TT0"/>
 </g>
-<text x="170.65" y="426.65" font-size="9.0pt" font-family="Avenir Next for SAS" fill="#626f80" text-anchor="middle" opacity="0">
+<text x="164.0" y="426.65" font-size="9.0pt" font-family="Avenir Next for SAS" fill="#626f80" text-anchor="middle" opacity="0">
 12:00:00 PM</text>
-<g fill="#626f80" stroke="#626f80" transform="translate(275.3 426.65) scale(0.012 -0.012)">
+<g fill="#626f80" stroke="#626f80" transform="translate(262.0 426.65) scale(0.012 -0.012)">
 <use x="0" y="0" xlink:href="#g49/TT0"/>
 <use x="580.0" y="0" xlink:href="#g50/TT0"/>
 <use x="1160.0" y="0" xlink:href="#g58/TT0"/>
@@ -317,9 +319,9 @@ Relative Humidity inside (%)</text>
 <use x="4330.0" y="0" xlink:href="#g65/TT0"/>
 <use x="5030.0" y="0" xlink:href="#g77/TT0"/>
 </g>
-<text x="310.3" y="426.65" font-size="9.0pt" font-family="Avenir Next for SAS" fill="#626f80" text-anchor="middle" opacity="0">
+<text x="297.0" y="426.65" font-size="9.0pt" font-family="Avenir Next for SAS" fill="#626f80" text-anchor="middle" opacity="0">
 12:00:00 AM</text>
-<g fill="#626f80" stroke="#626f80" transform="translate(286.3 441.35) scale(0.012 -0.012)">
+<g fill="#626f80" stroke="#626f80" transform="translate(273.0 441.35) scale(0.012 -0.012)">
 <use x="0" y="0" xlink:href="#g49/TT0"/>
 <use x="580.0" y="0" xlink:href="#g53/TT0"/>
 <use x="1160.0" y="0" xlink:href="#g77/TT0"/>
@@ -328,9 +330,9 @@ Relative Humidity inside (%)</text>
 <use x="2940.0" y="0" xlink:href="#g50/TT0"/>
 <use x="3520.0" y="0" xlink:href="#g53/TT0"/>
 </g>
-<text x="310.3" y="441.35" font-size="9.0pt" font-family="Avenir Next for SAS" fill="#626f80" text-anchor="middle" opacity="0">
+<text x="297.0" y="441.35" font-size="9.0pt" font-family="Avenir Next for SAS" fill="#626f80" text-anchor="middle" opacity="0">
 15Mar25</text>
-<g fill="#626f80" stroke="#626f80" transform="translate(415.95 426.65) scale(0.012 -0.012)">
+<g fill="#626f80" stroke="#626f80" transform="translate(396.0 426.65) scale(0.012 -0.012)">
 <use x="0" y="0" xlink:href="#g49/TT0"/>
 <use x="580.0" y="0" xlink:href="#g50/TT0"/>
 <use x="1160.0" y="0" xlink:href="#g58/TT0"/>
@@ -342,9 +344,9 @@ Relative Humidity inside (%)</text>
 <use x="4330.0" y="0" xlink:href="#g80/TT0"/>
 <use x="4910.0" y="0" xlink:href="#g77/TT0"/>
 </g>
-<text x="449.95" y="426.65" font-size="9.0pt" font-family="Avenir Next for SAS" fill="#626f80" text-anchor="middle" opacity="0">
+<text x="430.0" y="426.65" font-size="9.0pt" font-family="Avenir Next for SAS" fill="#626f80" text-anchor="middle" opacity="0">
 12:00:00 PM</text>
-<g fill="#626f80" stroke="#626f80" transform="translate(554.6 426.65) scale(0.012 -0.012)">
+<g fill="#626f80" stroke="#626f80" transform="translate(528.0 426.65) scale(0.012 -0.012)">
 <use x="0" y="0" xlink:href="#g49/TT0"/>
 <use x="580.0" y="0" xlink:href="#g50/TT0"/>
 <use x="1160.0" y="0" xlink:href="#g58/TT0"/>
@@ -356,9 +358,9 @@ Relative Humidity inside (%)</text>
 <use x="4330.0" y="0" xlink:href="#g65/TT0"/>
 <use x="5030.0" y="0" xlink:href="#g77/TT0"/>
 </g>
-<text x="589.6" y="426.65" font-size="9.0pt" font-family="Avenir Next for SAS" fill="#626f80" text-anchor="middle" opacity="0">
+<text x="563.0" y="426.65" font-size="9.0pt" font-family="Avenir Next for SAS" fill="#626f80" text-anchor="middle" opacity="0">
 12:00:00 AM</text>
-<g fill="#626f80" stroke="#626f80" transform="translate(565.6 441.35) scale(0.012 -0.012)">
+<g fill="#626f80" stroke="#626f80" transform="translate(539.0 441.35) scale(0.012 -0.012)">
 <use x="0" y="0" xlink:href="#g49/TT0"/>
 <use x="580.0" y="0" xlink:href="#g54/TT0"/>
 <use x="1160.0" y="0" xlink:href="#g77/TT0"/>
@@ -367,9 +369,9 @@ Relative Humidity inside (%)</text>
 <use x="2940.0" y="0" xlink:href="#g50/TT0"/>
 <use x="3520.0" y="0" xlink:href="#g53/TT0"/>
 </g>
-<text x="589.6" y="441.35" font-size="9.0pt" font-family="Avenir Next for SAS" fill="#626f80" text-anchor="middle" opacity="0">
+<text x="563.0" y="441.35" font-size="9.0pt" font-family="Avenir Next for SAS" fill="#626f80" text-anchor="middle" opacity="0">
 16Mar25</text>
-<g fill="#626f80" stroke="#626f80" transform="translate(695.25 426.65) scale(0.012 -0.012)">
+<g fill="#626f80" stroke="#626f80" transform="translate(662.0 426.65) scale(0.012 -0.012)">
 <use x="0" y="0" xlink:href="#g49/TT0"/>
 <use x="580.0" y="0" xlink:href="#g50/TT0"/>
 <use x="1160.0" y="0" xlink:href="#g58/TT0"/>
@@ -381,9 +383,9 @@ Relative Humidity inside (%)</text>
 <use x="4330.0" y="0" xlink:href="#g80/TT0"/>
 <use x="4910.0" y="0" xlink:href="#g77/TT0"/>
 </g>
-<text x="729.25" y="426.65" font-size="9.0pt" font-family="Avenir Next for SAS" fill="#626f80" text-anchor="middle" opacity="0">
+<text x="696.0" y="426.65" font-size="9.0pt" font-family="Avenir Next for SAS" fill="#626f80" text-anchor="middle" opacity="0">
 12:00:00 PM</text>
-<g fill="#626f80" stroke="#626f80" transform="translate(833.9 426.65) scale(0.012 -0.012)">
+<g fill="#626f80" stroke="#626f80" transform="translate(794.0 426.65) scale(0.012 -0.012)">
 <use x="0" y="0" xlink:href="#g49/TT0"/>
 <use x="580.0" y="0" xlink:href="#g50/TT0"/>
 <use x="1160.0" y="0" xlink:href="#g58/TT0"/>
@@ -395,9 +397,9 @@ Relative Humidity inside (%)</text>
 <use x="4330.0" y="0" xlink:href="#g65/TT0"/>
 <use x="5030.0" y="0" xlink:href="#g77/TT0"/>
 </g>
-<text x="868.9" y="426.65" font-size="9.0pt" font-family="Avenir Next for SAS" fill="#626f80" text-anchor="middle" opacity="0">
+<text x="829.0" y="426.65" font-size="9.0pt" font-family="Avenir Next for SAS" fill="#626f80" text-anchor="middle" opacity="0">
 12:00:00 AM</text>
-<g fill="#626f80" stroke="#626f80" transform="translate(844.9 441.35) scale(0.012 -0.012)">
+<g fill="#626f80" stroke="#626f80" transform="translate(805.0 441.35) scale(0.012 -0.012)">
 <use x="0" y="0" xlink:href="#g49/TT0"/>
 <defs>
 <path id="g55/TT0" d="M498.0 642.0 L213.0 0 L132.0 0 L425.0 644.0 L78.0 644.0 L78.0 708.0 L498.0 708.0 L498.0 642.0Z">
@@ -410,8 +412,22 @@ Relative Humidity inside (%)</text>
 <use x="2940.0" y="0" xlink:href="#g50/TT0"/>
 <use x="3520.0" y="0" xlink:href="#g53/TT0"/>
 </g>
-<text x="868.9" y="441.35" font-size="9.0pt" font-family="Avenir Next for SAS" fill="#626f80" text-anchor="middle" opacity="0">
+<text x="829.0" y="441.35" font-size="9.0pt" font-family="Avenir Next for SAS" fill="#626f80" text-anchor="middle" opacity="0">
 17Mar25</text>
+<g fill="#626f80" stroke="#626f80" transform="translate(897.0 426.65) scale(0.012 -0.012)">
+<use x="0" y="0" xlink:href="#g49/TT0"/>
+<use x="580.0" y="0" xlink:href="#g50/TT0"/>
+<use x="1160.0" y="0" xlink:href="#g58/TT0"/>
+<use x="1460.0" y="0" xlink:href="#g48/TT0"/>
+<use x="2040.0" y="0" xlink:href="#g48/TT0"/>
+<use x="2620.0" y="0" xlink:href="#g58/TT0"/>
+<use x="2920.0" y="0" xlink:href="#g48/TT0"/>
+<use x="3500.0" y="0" xlink:href="#g48/TT0"/>
+<use x="4330.0" y="0" xlink:href="#g80/TT0"/>
+<use x="4910.0" y="0" xlink:href="#g77/TT0"/>
+</g>
+<text x="931.0" y="426.65" font-size="9.0pt" font-family="Avenir Next for SAS" fill="#626f80" text-anchor="middle" opacity="0">
+12:00:00 PM</text>
 </g>
 <g fill="#2a3037" stroke="#2a3037" transform="translate(465.5 465.44) scale(0.014 -0.014)">
 <defs>
@@ -427,7 +443,7 @@ Relative Humidity inside (%)</text>
 <use x="3086.0" y="0" xlink:href="#g109/TT1"/>
 <use x="3976.0" y="0" xlink:href="#g101/TT1"/>
 </g>
-<text id="Text_309" x="496.5" y="465.44" font-size="10.5pt" font-family="Avenir Next for SAS" font-weight="bold" fill="#2a3037" text-anchor="middle" opacity="0">
+<text id="Text_323" x="496.5" y="465.44" font-size="10.5pt" font-family="Avenir Next for SAS" font-weight="bold" fill="#2a3037" text-anchor="middle" opacity="0">
 Date time</text>
 </g>
 </g>
