@@ -77,14 +77,15 @@
 					<header class="align-center">
 					    <p><strong>Status:</strong> <span id="status">Connecting...</span></p>
 					    <input type="text" id="message" placeholder="Ask your question to the beehive!">
-					    <button onclick="publishMessage()" id="theButton">Send</button>
-						<p id="llmStatus"></p>
-						<p id="waitingTime"></p>
+					    <button onclick="publishMessage()">Send</button>
 					    <h2>Received Messages:</h2>
 					    <ul id="messages"></ul>
 					</header>
 				</div>
 			</section>
+ 
+ 
+ 
  
  
 <!-- Two -->
@@ -218,23 +219,11 @@
 		            connectTimeout: 4000,
 		            username: "qr_code_user", // Add your EMQX username
 				    password: "qr_code_password", // Add your EMQX password
-					cleanSession: true,
 		        };
  
-				// create timer constants
-				let connectionTime;
-				let messageTime;
-				let waitingTime;
-				let startTime;
-				let waitingInterval;
+				const client = mqtt.connect(broker, options);
 		
-		        const client = mqtt.connect(broker, options);
-		
-		        client.on("connect", () => {
-					// record timestamp of making the connection
-					connectionTime = new Date().getTime();
-					console.log(`Connection Time is: ${connectionTime}`);
- 
+				client.on("connect", () => {
 		            document.getElementById("status").textContent = "Connected to the hive!";
 		            console.log("Connected to MQTT Broker");
 		            client.subscribe("v000/c00002/d001/answer", (err) => {
@@ -242,23 +231,13 @@
 		            });
 		        });
  
+ 
 				client.on("message", (topic, message) => {
-					// find the message timestamp
-					messageTime = new Date().getTime();
-					console.log(`Message Time is: ${messageTime}`);
- 
-					// only display message when it is not from a previous interaction
-					if ((messageTime - connectionTime) < 2000 ) {
-						console.log('Message is from a previous interaction. Ignore!');
-						return;
-					}
- 
-					// display the message
 		            console.log(`Received message on topic ${topic}: ${message.toString()}`);
 		            displayMessage(`${message.toString()}`);
 		        });
  
-		        function publishMessage() {
+				function publishMessage() {
 		            const userInput = document.getElementById("message").value;
 		            const jsonPayload = {
 		                category: "question",
@@ -269,42 +248,14 @@
 		            client.publish("v000/c00002/d001/user", jsonString, (err) => {
 		                if (err) console.error("Publish error:", err);
 		            });
-		
-					// Start waiting time
-					startTime = new Date().getTime();
-					waitingInterval = setInterval(updateWaitingTime, 1000);
-	
-					// Show message that the question has been sent
-					document.getElementById('llmStatus').innerHTML = 'Question sent! Processing reply...';
-						
-					//disable the button
-					document.getElementById("theButton").setAttribute('disabled','disabled');
-				}
- 
+		        }
  
 		        function displayMessage(msg) {
- 
-					// clear timer interval, because answer has arrived
-					clearInterval(waitingInterval);
-					
-					//enable the button again
-					document.getElementById("theButton").removeAttribute('disabled');
- 
-					//update status and waiting timer
-					document.getElementById('llmStatus').innerHTML = 'Answer received! You can now ask follow-up questions.';
-					document.getElementById('waitingTime').innerHTML = `Answer given in ${waitingTime} seconds`;
- 
 		            const msgList = document.getElementById("messages");
 		            const newItem = document.createElement("li");
 		            newItem.textContent = msg;
 		            msgList.appendChild(newItem);
 		        }
- 
-				function updateWaitingTime() {
-					const currentTime = new Date().getTime();
-					waitingTime = Math.floor((currentTime - startTime) / 1000);
-					document.getElementById('waitingTime').innerHTML = `Processing Time: ${waitingTime} seconds`;
-				}
  
 		    </script>
  
