@@ -6,6 +6,13 @@
 </rect>
 <rect x="0" y="0" rx="5" ry="5" width="1000.0" height="500.0" fill="#ffffff" opacity="0">
 </rect>
+<defs>
+<clipPath id="ClipPath0">
+<rect x="0" y="0" width="1000" height="500">
+</rect>
+</clipPath>
+</defs>
+<g clip-path="url(#ClipPath0)">
 <rect x="0" y="0" rx="5" ry="5" width="1000.0" height="500.0" fill="#ffffff" opacity="0">
 </rect>
 <g transform=" translate(143.0 -50.0)">
@@ -14,6 +21,7 @@
 <g transform=" translate(16.0 -16.0)">
 <use x="0" y="82.0" width="584.0" height="418.0" xlink:href="#image_0">
 </use>
+</g>
 </g>
 </g>
 <g transform=" translate(143.0 -50.0)">
