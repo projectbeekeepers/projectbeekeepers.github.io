@@ -26,15 +26,15 @@
 </defs>
 <g clip-path="url(#ClipPath1)">
 <g transform="">
-<polyline id="Polyline_39" points="52.0,62.7  85.7,97.15  119.41,126.85  153.11,150.41  186.81,166.02  220.52,199.54  254.22,245.21  287.93,283.45  321.63,312.71  355.33,344.5  389.04,372.64  422.74,395.76  456.44,396.98  490.15,388.16  523.85,350.14  557.56,315.97  591.26,285.49  624.96,268.88  658.67,242.84  692.37,216.93  726.07,182.49  759.78,132.32  793.48,95.64  827.19,55.0 " fill="none" stroke="#287fc7" stroke-width="3.0">
+<polyline id="Polyline_39" points="52.0,87.08  85.7,119.08  119.41,146.67  153.11,168.56  186.81,183.06  220.52,214.2  254.22,256.63  287.93,292.16  321.63,319.33  355.33,348.87  389.04,375.01  422.74,396.48  456.44,397.62  490.15,389.43  523.85,354.11  557.56,322.37  591.26,294.05  624.96,278.62  658.67,254.42  692.37,230.36  726.07,198.36  759.78,151.76  793.48,117.68  827.19,75.62  860.89,58.42  894.59,55.0 " fill="none" stroke="#287fc7" stroke-width="3.0">
 </polyline>
-<polyline id="Polyline_39" points="962.0,111.89  962.5,111.89 " fill="none" stroke="#287fc7" stroke-width="3.0">
+<polyline id="Polyline_39" points="962.0,132.77  962.5,132.77 " fill="none" stroke="#287fc7" stroke-width="3.0">
 </polyline>
 </g>
 <g transform="">
-<polyline id="Polyline_96" points="52.0,62.7  85.7,97.15  119.41,126.85  153.11,150.41  186.81,166.02  220.52,199.54  254.22,245.21  287.93,283.45  321.63,312.71  355.33,344.5  389.04,372.64  422.74,395.76  456.44,396.98  490.15,388.16  523.85,350.14  557.56,315.97  591.26,285.49  624.96,268.88  658.67,242.84  692.37,216.93  726.07,182.49  759.78,132.32  793.48,95.64  827.19,55.0 " fill="none" stroke="#b7b7b7" stroke-width="3.0" stroke-dasharray="4,4" opacity="0.75">
+<polyline id="Polyline_96" points="52.0,87.08  85.7,119.08  119.41,146.67  153.11,168.56  186.81,183.06  220.52,214.2  254.22,256.63  287.93,292.16  321.63,319.33  355.33,348.87  389.04,375.01  422.74,396.48  456.44,397.62  490.15,389.43  523.85,354.11  557.56,322.37  591.26,294.05  624.96,278.62  658.67,254.42  692.37,230.36  726.07,198.36  759.78,151.76  793.48,117.68  827.19,75.62  860.89,58.42  894.59,55.0 " fill="none" stroke="#b7b7b7" stroke-width="3.0" stroke-dasharray="4,4" opacity="0.75">
 </polyline>
-<polyline id="Polyline_96" points="962.0,111.89  962.5,111.89 " fill="none" stroke="#b7b7b7" stroke-width="3.0" stroke-dasharray="4,4" opacity="0.75">
+<polyline id="Polyline_96" points="962.0,132.77  962.5,132.77 " fill="none" stroke="#b7b7b7" stroke-width="3.0" stroke-dasharray="4,4" opacity="0.75">
 </polyline>
 </g>
 <g transform="">
@@ -42,15 +42,15 @@
 </g>
 <path d="M46.0 406.0L969.0 406.0" stroke="#2a3037" stroke-dasharray="1,2" fill="none" opacity="0.4">
 </path>
-<path d="M46.0 336.21L969.0 336.21" stroke="#2a3037" stroke-dasharray="1,2" fill="none" opacity="0.4">
+<path d="M46.0 341.17L969.0 341.17" stroke="#2a3037" stroke-dasharray="1,2" fill="none" opacity="0.4">
 </path>
-<path d="M46.0 266.43L969.0 266.43" stroke="#2a3037" stroke-dasharray="1,2" fill="none" opacity="0.4">
+<path d="M46.0 276.34L969.0 276.34" stroke="#2a3037" stroke-dasharray="1,2" fill="none" opacity="0.4">
 </path>
-<path d="M46.0 196.64L969.0 196.64" stroke="#2a3037" stroke-dasharray="1,2" fill="none" opacity="0.4">
+<path d="M46.0 211.5L969.0 211.5" stroke="#2a3037" stroke-dasharray="1,2" fill="none" opacity="0.4">
 </path>
-<path d="M46.0 126.85L969.0 126.85" stroke="#2a3037" stroke-dasharray="1,2" fill="none" opacity="0.4">
+<path d="M46.0 146.67L969.0 146.67" stroke="#2a3037" stroke-dasharray="1,2" fill="none" opacity="0.4">
 </path>
-<path d="M46.0 57.07L969.0 57.07" stroke="#2a3037" stroke-dasharray="1,2" fill="none" opacity="0.4">
+<path d="M46.0 81.84L969.0 81.84" stroke="#2a3037" stroke-dasharray="1,2" fill="none" opacity="0.4">
 </path>
 <path d="M52.0 412.0L52.0 48.0" stroke="#2a3037" stroke-dasharray="1,2" fill="none" opacity="0.4">
 </path>
@@ -95,7 +95,7 @@
 </g>
 <text id="Text_182" x="41.0" y="409.3" font-size="9.0pt" font-family="Avenir Next for SAS" fill="#626f80" text-anchor="end" opacity="0">
 99750</text>
-<g fill="#626f80" stroke="#626f80" transform="translate(-0.76 340.52) scale(0.012 -0.012)">
+<g fill="#626f80" stroke="#626f80" transform="translate(-0.76 345.47) scale(0.012 -0.012)">
 <defs>
 <path id="g49/TT0" d="M358.0 0 L286.0 0 L286.0 619.0 L158.0 510.0 L114.0 560.0 L294.0 708.0 L358.0 708.0 L358.0 0Z">
 </path>
@@ -107,9 +107,9 @@
 <use x="2320.0" y="0" xlink:href="#g48/TT0"/>
 <use x="2900.0" y="0" xlink:href="#g48/TT0"/>
 </g>
-<text id="Text_183" x="41.0" y="340.52" font-size="9.0pt" font-family="Avenir Next for SAS" fill="#626f80" text-anchor="end" opacity="0">
+<text id="Text_183" x="41.0" y="345.47" font-size="9.0pt" font-family="Avenir Next for SAS" fill="#626f80" text-anchor="end" opacity="0">
 100000</text>
-<g fill="#626f80" stroke="#626f80" transform="translate(-0.76 270.73) scale(0.012 -0.012)">
+<g fill="#626f80" stroke="#626f80" transform="translate(-0.76 280.64) scale(0.012 -0.012)">
 <use x="0" y="0" xlink:href="#g49/TT0"/>
 <use x="580.0" y="0" xlink:href="#g48/TT0"/>
 <use x="1160.0" y="0" xlink:href="#g48/TT0"/>
@@ -121,9 +121,9 @@
 <use x="2320.0" y="0" xlink:href="#g53/TT0"/>
 <use x="2900.0" y="0" xlink:href="#g48/TT0"/>
 </g>
-<text id="Text_184" x="41.0" y="270.73" font-size="9.0pt" font-family="Avenir Next for SAS" fill="#626f80" text-anchor="end" opacity="0">
+<text id="Text_184" x="41.0" y="280.64" font-size="9.0pt" font-family="Avenir Next for SAS" fill="#626f80" text-anchor="end" opacity="0">
 100250</text>
-<g fill="#626f80" stroke="#626f80" transform="translate(-0.76 200.94) scale(0.012 -0.012)">
+<g fill="#626f80" stroke="#626f80" transform="translate(-0.76 215.81) scale(0.012 -0.012)">
 <use x="0" y="0" xlink:href="#g49/TT0"/>
 <use x="580.0" y="0" xlink:href="#g48/TT0"/>
 <use x="1160.0" y="0" xlink:href="#g48/TT0"/>
@@ -131,9 +131,9 @@
 <use x="2320.0" y="0" xlink:href="#g48/TT0"/>
 <use x="2900.0" y="0" xlink:href="#g48/TT0"/>
 </g>
-<text id="Text_185" x="41.0" y="200.94" font-size="9.0pt" font-family="Avenir Next for SAS" fill="#626f80" text-anchor="end" opacity="0">
+<text id="Text_185" x="41.0" y="215.81" font-size="9.0pt" font-family="Avenir Next for SAS" fill="#626f80" text-anchor="end" opacity="0">
 100500</text>
-<g fill="#626f80" stroke="#626f80" transform="translate(-0.76 131.15) scale(0.012 -0.012)">
+<g fill="#626f80" stroke="#626f80" transform="translate(-0.76 150.97) scale(0.012 -0.012)">
 <use x="0" y="0" xlink:href="#g49/TT0"/>
 <use x="580.0" y="0" xlink:href="#g48/TT0"/>
 <use x="1160.0" y="0" xlink:href="#g48/TT0"/>
@@ -141,9 +141,9 @@
 <use x="2320.0" y="0" xlink:href="#g53/TT0"/>
 <use x="2900.0" y="0" xlink:href="#g48/TT0"/>
 </g>
-<text id="Text_186" x="41.0" y="131.15" font-size="9.0pt" font-family="Avenir Next for SAS" fill="#626f80" text-anchor="end" opacity="0">
+<text id="Text_186" x="41.0" y="150.97" font-size="9.0pt" font-family="Avenir Next for SAS" fill="#626f80" text-anchor="end" opacity="0">
 100750</text>
-<g fill="#626f80" stroke="#626f80" transform="translate(-0.76 61.37) scale(0.012 -0.012)">
+<g fill="#626f80" stroke="#626f80" transform="translate(-0.76 86.14) scale(0.012 -0.012)">
 <use x="0" y="0" xlink:href="#g49/TT0"/>
 <use x="580.0" y="0" xlink:href="#g48/TT0"/>
 <use x="1160.0" y="0" xlink:href="#g49/TT0"/>
@@ -151,7 +151,7 @@
 <use x="2320.0" y="0" xlink:href="#g48/TT0"/>
 <use x="2900.0" y="0" xlink:href="#g48/TT0"/>
 </g>
-<text id="Text_187" x="41.0" y="61.37" font-size="9.0pt" font-family="Avenir Next for SAS" fill="#626f80" text-anchor="end" opacity="0">
+<text id="Text_187" x="41.0" y="86.14" font-size="9.0pt" font-family="Avenir Next for SAS" fill="#626f80" text-anchor="end" opacity="0">
 101000</text>
 </g>
 <g fill="#2a3037" stroke="#2a3037" transform="translate(0 45.59) scale(0.014 -0.014)">
